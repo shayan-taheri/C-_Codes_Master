@@ -1,0 +1,1874 @@
+  calu/div_100/U52/Q (AND2X1)                          
+                                                        0.5571    38.6134 r
+  calu/div_100/u_div/u_mx_PartRem_0_22_0/Q (MUX21X1)   
+                                                        0.8160    39.4294 r
+  calu/div_100/u_div/u_add_PartRem_1_21/A[0] (Complex_ALU_DW01_add_48)
+                                                        0.0000    39.4294 r
+  calu/div_100/u_div/u_add_PartRem_1_21/U67/QN (NAND2X0)
+                                                        0.4844    39.9138 f
+  calu/div_100/u_div/u_add_PartRem_1_21/U70/QN (NAND3X0)
+                                                        0.1372    40.0510 r
+  calu/div_100/u_div/u_add_PartRem_1_21/U24/QN (NAND2X0)
+                                                        0.1226    40.1735 f
+  calu/div_100/u_div/u_add_PartRem_1_21/U35/QN (NAND3X0)
+                                                        0.1573    40.3309 r
+  calu/div_100/u_div/u_add_PartRem_1_21/U37/QN (NAND2X0)
+                                                        0.1012    40.4320 f
+  calu/div_100/u_div/u_add_PartRem_1_21/U40/QN (NAND3X0)
+                                                        0.1257    40.5577 r
+  calu/div_100/u_div/u_add_PartRem_1_21/U32/QN (NAND2X0)
+                                                        0.1128    40.6705 f
+  calu/div_100/u_div/u_add_PartRem_1_21/U34/QN (NAND3X0)
+                                                        0.1399    40.8103 r
+  calu/div_100/u_div/u_add_PartRem_1_21/U42/QN (NAND2X0)
+                                                        0.1022    40.9125 f
+  calu/div_100/u_div/u_add_PartRem_1_21/U44/QN (NAND3X0)
+                                                        0.1333    41.0457 r
+  calu/div_100/u_div/u_add_PartRem_1_21/U48/QN (NAND2X0)
+                                                        0.1019    41.1476 f
+  calu/div_100/u_div/u_add_PartRem_1_21/U50/QN (NAND3X0)
+                                                        0.1379    41.2856 r
+  calu/div_100/u_div/u_add_PartRem_1_21/U53/QN (NAND2X0)
+                                                        0.1022    41.3877 f
+  calu/div_100/u_div/u_add_PartRem_1_21/U55/QN (NAND3X0)
+                                                        0.1374    41.5252 r
+  calu/div_100/u_div/u_add_PartRem_1_21/U63/QN (NAND2X0)
+                                                        0.1022    41.6273 f
+  calu/div_100/u_div/u_add_PartRem_1_21/U65/QN (NAND3X0)
+                                                        0.1543    41.7816 r
+  calu/div_100/u_div/u_add_PartRem_1_21/U20/CO (FADDX1)
+                                                        0.3443    42.1259 r
+  calu/div_100/u_div/u_add_PartRem_1_21/U57/QN (NAND2X0)
+                                                        0.1062    42.2321 f
+  calu/div_100/u_div/u_add_PartRem_1_21/U59/QN (NAND3X0)
+                                                        0.1406    42.3727 r
+  calu/div_100/u_div/u_add_PartRem_1_21/CO (Complex_ALU_DW01_add_48)
+                                                        0.0000    42.3727 r
+  calu/div_100/U236/QN (NAND2X0)           
+                                                        0.5024    42.8750 f
+  calu/div_100/U235/Q (MUX21X1)             
+                                                        0.8056    43.6806 r
+  calu/div_100/u_div/u_add_PartRem_1_20/A[0] (Complex_ALU_DW01_add_47)
+                                                        0.0000    43.6806 r
+  calu/div_100/u_div/u_add_PartRem_1_20/U51/QN (NAND2X0)
+                                                        0.4541    44.1347 f
+  calu/div_100/u_div/u_add_PartRem_1_20/U53/QN (NAND3X0)
+                                                        0.1465    44.2812 r
+  calu/div_100/u_div/u_add_PartRem_1_20/U56/QN (NAND2X0)
+                                                        0.1282    44.4094 f
+  calu/div_100/u_div/u_add_PartRem_1_20/U88/QN (NAND3X0)
+                                                        0.1419    44.5512 r
+  calu/div_100/u_div/u_add_PartRem_1_20/U68/QN (NAND2X0)
+                                                        0.0999    44.6511 f
+  calu/div_100/u_div/u_add_PartRem_1_20/U92/QN (NAND3X0)
+                                                        0.1348    44.7859 r
+  calu/div_100/u_div/u_add_PartRem_1_20/U64/QN (NAND2X0)
+                                                        0.1021    44.8880 f
+  calu/div_100/u_div/u_add_PartRem_1_20/U66/QN (NAND3X0)
+                                                        0.1332    45.0213 r
+  calu/div_100/u_div/u_add_PartRem_1_20/U71/QN (NAND2X0)
+                                                        0.1012    45.1225 f
+  calu/div_100/u_div/u_add_PartRem_1_20/U72/QN (NAND3X0)
+                                                        0.1393    45.2618 r
+  calu/div_100/u_div/u_add_PartRem_1_20/U76/QN (NAND2X0)
+                                                        0.1020    45.3637 f
+  calu/div_100/u_div/u_add_PartRem_1_20/U78/QN (NAND3X0)
+                                                        0.1380    45.5018 r
+  calu/div_100/u_div/u_add_PartRem_1_20/U33/QN (NAND2X0)
+                                                        0.1022    45.6039 f
+  calu/div_100/u_div/u_add_PartRem_1_20/U35/QN (NAND3X0)
+                                                        0.1374    45.7414 r
+  calu/div_100/u_div/u_add_PartRem_1_20/U46/QN (NAND2X0)
+                                                        0.1021    45.8434 f
+  calu/div_100/u_div/u_add_PartRem_1_20/U48/QN (NAND3X0)
+                                                        0.1387    45.9821 r
+  calu/div_100/u_div/u_add_PartRem_1_20/U40/QN (NAND2X0)
+                                                        0.1021    46.0842 f
+  calu/div_100/u_div/u_add_PartRem_1_20/U42/QN (NAND3X0)
+                                                        0.1469    46.2311 r
+  calu/div_100/u_div/u_add_PartRem_1_20/U57/QN (NAND2X0)
+                                                        0.1035    46.3347 f
+  calu/div_100/u_div/u_add_PartRem_1_20/U61/QN (NAND3X0)
+                                                        0.1385    46.4731 r
+  calu/div_100/u_div/u_add_PartRem_1_20/U82/QN (NAND2X0)
+                                                        0.1027    46.5758 f
+  calu/div_100/u_div/u_add_PartRem_1_20/U83/QN (NAND3X0)
+                                                        0.1527    46.7284 r
+  calu/div_100/u_div/u_add_PartRem_1_20/CO (Complex_ALU_DW01_add_47)
+                                                        0.0000    46.7284 r
+  calu/div_100/U146/Q (AND2X2)                  
+                                                        0.6181    47.3465 r
+  calu/div_100/u_div/u_mx_PartRem_0_20_2/Q (MUX21X1)  
+                                                        1.0715    48.4181 r
+  calu/div_100/u_div/u_add_PartRem_1_19/A[2] (Complex_ALU_DW01_add_46)
+                                                        0.0000    48.4181 r
+  calu/div_100/u_div/u_add_PartRem_1_19/U25/ZN (INVX0)
+                                                        0.4421    48.8601 f
+  calu/div_100/u_div/u_add_PartRem_1_19/U26/ZN (INVX0)
+                                                        0.1203    48.9804 r
+  calu/div_100/u_div/u_add_PartRem_1_19/U23/CO (FADDX1)
+                                                        0.3942    49.3746 r
+  calu/div_100/u_div/u_add_PartRem_1_19/U53/QN (NAND2X0)
+                                                        0.0984    49.4730 f
+  calu/div_100/u_div/u_add_PartRem_1_19/U54/QN (NAND3X0)
+                                                        0.1392    49.6123 r
+  calu/div_100/u_div/u_add_PartRem_1_19/U58/QN (NAND2X0)
+                                                        0.1019    49.7142 f
+  calu/div_100/u_div/u_add_PartRem_1_19/U60/QN (NAND3X0)
+                                                        0.1380    49.8522 r
+  calu/div_100/u_div/u_add_PartRem_1_19/U41/QN (NAND2X0)
+                                                        0.1022    49.9544 f
+  calu/div_100/u_div/u_add_PartRem_1_19/U43/QN (NAND3X0)
+                                                        0.1374    50.0918 r
+  calu/div_100/u_div/u_add_PartRem_1_19/U36/QN (NAND2X0)
+                                                        0.1022    50.1939 f
+  calu/div_100/u_div/u_add_PartRem_1_19/U38/QN (NAND3X0)
+                                                        0.1374    50.3314 r
+  calu/div_100/u_div/u_add_PartRem_1_19/U62/QN (NAND2X0)
+                                                        0.1022    50.4335 f
+  calu/div_100/u_div/u_add_PartRem_1_19/U64/QN (NAND3X0)
+                                                        0.1544    50.5880 r
+  calu/div_100/u_div/u_add_PartRem_1_19/U18/CO (FADDX1)
+                                                        0.3440    50.9319 r
+  calu/div_100/u_div/u_add_PartRem_1_19/U47/QN (NAND2X0)
+                                                        0.1060    51.0380 f
+  calu/div_100/u_div/u_add_PartRem_1_19/U49/QN (NAND3X0)
+                                                        0.1330    51.1710 r
+  calu/div_100/u_div/u_add_PartRem_1_19/U67/QN (NAND2X0)
+                                                        0.1016    51.2726 f
+  calu/div_100/u_div/u_add_PartRem_1_19/U68/QN (NAND3X0)
+                                                        0.1398    51.4124 r
+  calu/div_100/u_div/u_add_PartRem_1_19/U72/QN (NAND2X0)
+                                                        0.1020    51.5144 f
+  calu/div_100/u_div/u_add_PartRem_1_19/U74/QN (NAND3X0)
+                                                        0.1544    51.6688 r
+  calu/div_100/u_div/u_add_PartRem_1_19/CO (Complex_ALU_DW01_add_46)
+                                                        0.0000    51.6688 r
+  calu/div_100/U95/Q (AND2X4)                
+                                                        0.6172    52.2860 r
+  calu/div_100/u_div/u_mx_PartRem_0_19_1/Q (MUX21X1)  
+                                                        1.0882    53.3742 r
+  calu/div_100/u_div/u_add_PartRem_1_18/A[1] (Complex_ALU_DW01_add_45)
+                                                        0.0000    53.3742 r
+  calu/div_100/u_div/u_add_PartRem_1_18/U74/QN (NAND2X0)
+                                                        0.4847    53.8589 f
+  calu/div_100/u_div/u_add_PartRem_1_18/U87/QN (NAND3X0)
+                                                        0.1608    54.0197 r
+  calu/div_100/u_div/u_add_PartRem_1_18/U41/CO (FADDX1)
+                                                        0.3456    54.3653 r
+  calu/div_100/u_div/u_add_PartRem_1_18/U83/QN (NAND2X0)
+                                                        0.0985    54.4637 f
+  calu/div_100/u_div/u_add_PartRem_1_18/U90/QN (NAND3X0)
+                                                        0.1369    54.6007 r
+  calu/div_100/u_div/u_add_PartRem_1_18/U92/QN (NAND2X0)
+                                                        0.1022    54.7028 f
+  calu/div_100/u_div/u_add_PartRem_1_18/U94/QN (NAND3X0)
+                                                        0.1456    54.8484 r
+  calu/div_100/u_div/u_add_PartRem_1_18/U61/QN (NAND2X0)
+                                                        0.1033    54.9517 f
+  calu/div_100/u_div/u_add_PartRem_1_18/U63/QN (NAND3X0)
+                                                        0.1341    55.0858 r
+  calu/div_100/u_div/u_add_PartRem_1_18/U68/QN (NAND2X0)
+                                                        0.1016    55.1874 f
+  calu/div_100/u_div/u_add_PartRem_1_18/U69/QN (NAND3X0)
+                                                        0.1396    55.3270 r
+  calu/div_100/u_div/u_add_PartRem_1_18/U45/QN (NAND2X0)
+                                                        0.1020    55.4289 f
+  calu/div_100/u_div/u_add_PartRem_1_18/U47/QN (NAND3X0)
+                                                        0.1394    55.5684 r
+  calu/div_100/u_div/u_add_PartRem_1_18/U32/QN (NAND2X0)
+                                                        0.1025    55.6709 f
+  calu/div_100/u_div/u_add_PartRem_1_18/U34/QN (NAND3X0)
+                                                        0.1377    55.8086 r
+  calu/div_100/u_div/u_add_PartRem_1_18/U38/QN (NAND2X0)
+                                                        0.1025    55.9111 f
+  calu/div_100/u_div/u_add_PartRem_1_18/U40/QN (NAND3X0)
+                                                        0.1454    56.0565 r
+  calu/div_100/u_div/u_add_PartRem_1_18/U51/QN (NAND2X0)
+                                                        0.1037    56.1602 f
+  calu/div_100/u_div/u_add_PartRem_1_18/U53/QN (NAND3X0)
+                                                        0.1344    56.2946 r
+  calu/div_100/u_div/u_add_PartRem_1_18/U58/QN (NAND2X0)
+                                                        0.1016    56.3963 f
+  calu/div_100/u_div/u_add_PartRem_1_18/U59/QN (NAND3X0)
+                                                        0.1400    56.5362 r
+  calu/div_100/u_div/u_add_PartRem_1_18/U77/QN (NAND2X0)
+                                                        0.1020    56.6382 f
+  calu/div_100/u_div/u_add_PartRem_1_18/U80/QN (NAND3X0)
+                                                        0.1388    56.7770 r
+  calu/div_100/u_div/u_add_PartRem_1_18/CO (Complex_ALU_DW01_add_45)
+                                                        0.0000    56.7770 r
+  calu/div_100/U112/Q (AND3X1)                  
+                                                        0.4745    57.2515 r
+  calu/div_100/U111/Q (MUX21X1)                   	
+                                                        0.8123    58.0638 r
+  calu/div_100/u_div/u_add_PartRem_1_17/A[0] (Complex_ALU_DW01_add_44)
+                                                        0.0000    58.0638 r
+  calu/div_100/u_div/u_add_PartRem_1_17/U90/QN (NAND2X0)
+                                                        0.4827    58.5465 f
+  calu/div_100/u_div/u_add_PartRem_1_17/U92/QN (NAND3X0)
+                                                        0.1419    58.6884 r
+  calu/div_100/u_div/u_add_PartRem_1_17/U104/QN (NAND2X0)
+                                                        0.1042    58.7927 f
+  calu/div_100/u_div/u_add_PartRem_1_17/U107/QN (NAND3X0)
+                                                        0.1457    58.9384 r
+  calu/div_100/u_div/u_add_PartRem_1_17/U63/QN (NAND2X0)
+                                                        0.1033    59.0416 f
+  calu/div_100/u_div/u_add_PartRem_1_17/U65/QN (NAND3X0)
+                                                        0.1382    59.1799 r
+  calu/div_100/u_div/u_add_PartRem_1_17/U69/QN (NAND2X0)
+                                                        0.1026    59.2825 f
+  calu/div_100/u_div/u_add_PartRem_1_17/U71/QN (NAND3X0)
+                                                        0.1380    59.4204 r
+  calu/div_100/u_div/u_add_PartRem_1_17/U74/QN (NAND2X0)
+                                                        0.1022    59.5226 f
+  calu/div_100/u_div/u_add_PartRem_1_17/U76/QN (NAND3X0)
+                                                        0.1341    59.6567 r
+  calu/div_100/u_div/u_add_PartRem_1_17/U79/QN (NAND2X0)
+                                                        0.1014    59.7580 f
+  calu/div_100/u_div/u_add_PartRem_1_17/U80/QN (NAND3X0)
+                                                        0.1394    59.8974 r
+  calu/div_100/u_div/u_add_PartRem_1_17/U84/QN (NAND2X0)
+                                                        0.1020    59.9994 f
+  calu/div_100/u_div/u_add_PartRem_1_17/U86/QN (NAND3X0)
+                                                        0.1339    60.1333 r
+  calu/div_100/u_div/u_add_PartRem_1_17/U98/QN (NAND2X0)
+                                                        0.1013    60.2345 f
+  calu/div_100/u_div/u_add_PartRem_1_17/U99/QN (NAND3X0)
+                                                        0.1417    60.3762 r
+  calu/div_100/u_div/u_add_PartRem_1_17/U93/QN (NAND2X0)
+                                                        0.1018    60.4780 f
+  calu/div_100/u_div/u_add_PartRem_1_17/U103/QN (NAND3X0)
+                                                        0.1664    60.6444 r
+  calu/div_100/u_div/u_add_PartRem_1_17/U29/CO (FADDX1)
+                                                        0.3454    60.9898 r
+  calu/div_100/u_div/u_add_PartRem_1_17/U41/QN (NAND2X0)
+                                                        0.0987    61.0885 f
+  calu/div_100/u_div/u_add_PartRem_1_17/U43/QN (NAND3X0)
+                                                        0.1371    61.2256 r
+  calu/div_100/u_div/u_add_PartRem_1_17/U54/QN (NAND2X0)
+                                                        0.1018    61.3275 f
+  calu/div_100/u_div/u_add_PartRem_1_17/U55/QN (NAND3X0)
+                                                        0.1400    61.4674 r
+  calu/div_100/u_div/u_add_PartRem_1_17/U60/QN (NAND2X0)
+                                                        0.1017    61.5691 f
+  calu/div_100/u_div/u_add_PartRem_1_17/U61/QN (NAND3X0)
+                                                        0.1398    61.7088 r
+  calu/div_100/u_div/u_add_PartRem_1_17/U50/QN (NAND2X0)
+                                                        0.1020    61.8108 f
+  calu/div_100/u_div/u_add_PartRem_1_17/U51/QN (NAND3X0)
+                                                        0.1457    61.9565 r
+  calu/div_100/u_div/u_add_PartRem_1_17/CO (Complex_ALU_DW01_add_44)
+                                                        0.0000    61.9565 r
+  calu/div_100/U143/Q (AND2X1)                  
+                                                        0.5557    62.5122 r
+  calu/div_100/u_div/u_mx_PartRem_0_17_0/Q (MUX21X1)  
+                                                        0.9218    63.4340 r
+  calu/div_100/u_div/u_add_PartRem_1_16/A[0] (Complex_ALU_DW01_add_43)
+                                                        0.0000    63.4340 r
+  calu/div_100/u_div/u_add_PartRem_1_16/U62/QN (NAND2X0)
+                                                        0.4532    63.8872 f
+  calu/div_100/u_div/u_add_PartRem_1_16/U64/QN (NAND3X0)
+                                                        0.1457    64.0329 r
+  calu/div_100/u_div/u_add_PartRem_1_16/U91/QN (NAND2X0)
+                                                        0.1044    64.1373 f
+  calu/div_100/u_div/u_add_PartRem_1_16/U103/QN (NAND3X0)
+                                                        0.1452    64.2825 r
+  calu/div_100/u_div/u_add_PartRem_1_16/U86/QN (NAND2X0)
+                                                        0.1041    64.3866 f
+  calu/div_100/u_div/u_add_PartRem_1_16/U89/QN (NAND3X0)
+                                                        0.1471    64.5336 r
+  calu/div_100/u_div/u_add_PartRem_1_16/U83/QN (NAND2X0)
+                                                        0.1037    64.6373 f
+  calu/div_100/u_div/u_add_PartRem_1_16/U84/QN (NAND3X0)
+                                                        0.1437    64.7810 r
+  calu/div_100/u_div/u_add_PartRem_1_16/U78/QN (NAND2X0)
+                                                        0.1032    64.8842 f
+  calu/div_100/u_div/u_add_PartRem_1_16/U80/QN (NAND3X0)
+                                                        0.1464    65.0306 r
+  calu/div_100/u_div/u_add_PartRem_1_16/U43/QN (NAND2X0)
+                                                        0.1033    65.1339 f
+  calu/div_100/u_div/u_add_PartRem_1_16/U45/QN (NAND3X0)
+                                                        0.1341    65.2680 r
+  calu/div_100/u_div/u_add_PartRem_1_16/U49/QN (NAND2X0)
+                                                        0.1016    65.3696 f
+  calu/div_100/u_div/u_add_PartRem_1_16/U51/QN (NAND3X0)
+                                                        0.1465    65.5160 r
+  calu/div_100/u_div/u_add_PartRem_1_16/U56/QN (NAND2X0)
+                                                        0.1145    65.6305 f
+  calu/div_100/u_div/u_add_PartRem_1_16/U59/QN (NAND3X0)
+                                                        0.1456    65.7761 r
+  calu/div_100/u_div/u_add_PartRem_1_16/U23/CO (FADDX2)
+                                                        0.3475    66.1236 r
+  calu/div_100/u_div/u_add_PartRem_1_16/U25/CO (FADDX1)
+                                                        0.3237    66.4473 r
+  calu/div_100/u_div/u_add_PartRem_1_16/U93/QN (NAND2X0)
+                                                        0.1060    66.5532 f
+  calu/div_100/u_div/u_add_PartRem_1_16/U101/QN (NAND3X0)
+                                                        0.1330    66.6862 r
+  calu/div_100/u_div/u_add_PartRem_1_16/U73/QN (NAND2X0)
+                                                        0.1015    66.7877 f
+  calu/div_100/u_div/u_add_PartRem_1_16/U75/QN (NAND3X0)
+                                                        0.1377    66.9254 r
+  calu/div_100/u_div/u_add_PartRem_1_16/U38/QN (NAND2X0)
+                                                        0.1021    67.0275 f
+  calu/div_100/u_div/u_add_PartRem_1_16/U40/QN (NAND3X0)
+                                                        0.1432    67.1706 r
+  calu/div_100/u_div/u_add_PartRem_1_16/U66/QN (NAND2X0)
+                                                        0.1137    67.2843 f
+  calu/div_100/u_div/u_add_PartRem_1_16/U69/QN (NAND3X0)
+                                                        0.1300    67.4143 r
+  calu/div_100/u_div/u_add_PartRem_1_16/U94/QN (NAND2X0)
+                                                        0.1022    67.5164 f
+  calu/div_100/u_div/u_add_PartRem_1_16/U98/QN (NAND3X0)
+                                                        0.1537    67.6702 r
+  calu/div_100/u_div/u_add_PartRem_1_16/CO (Complex_ALU_DW01_add_43)
+                                                        0.0000    67.6702 r
+  calu/div_100/U17/Q (AND2X2)                  	
+                                                        0.5795    68.2496 r
+  calu/div_100/u_div/u_mx_PartRem_0_16_1/Q (MUX21X1) 
+                                                        1.0879    69.3375 r
+  calu/div_100/u_div/u_add_PartRem_1_15/A[1] (Complex_ALU_DW01_add_42)
+                                                        0.0000    69.3375 r
+  calu/div_100/u_div/u_add_PartRem_1_15/U112/QN (NAND2X0)
+                                                        0.4849    69.8225 f
+  calu/div_100/u_div/u_add_PartRem_1_15/U113/QN (NAND3X0)
+                                                        0.1775    70.0000 r
+  calu/div_100/u_div/u_add_PartRem_1_15/U23/CO (FADDX1)
+                                                        0.3483    70.3483 r
+  calu/div_100/u_div/u_add_PartRem_1_15/U103/QN (NAND2X0)
+                                                        0.0984    70.4467 f
+  calu/div_100/u_div/u_add_PartRem_1_15/U104/QN (NAND3X0)
+                                                        0.1391    70.5858 r
+  calu/div_100/u_div/u_add_PartRem_1_15/U108/QN (NAND2X0)
+                                                        0.1019    70.6877 f
+  calu/div_100/u_div/u_add_PartRem_1_15/U110/QN (NAND3X0)
+                                                        0.1380    70.8257 r
+  calu/div_100/u_div/u_add_PartRem_1_15/U116/QN (NAND2X0)
+                                                        0.1018    70.9275 f
+  calu/div_100/u_div/u_add_PartRem_1_15/U117/QN (NAND3X0)
+                                                        0.1397    71.0672 r
+  calu/div_100/u_div/u_add_PartRem_1_15/U121/QN (NAND2X0)
+                                                        0.1201    71.1873 f
+  calu/div_100/u_div/u_add_PartRem_1_15/U22/QN (NAND3X0)
+                                                        0.1519    71.3392 r
+  calu/div_100/u_div/u_add_PartRem_1_15/U78/QN (NAND2X0)
+                                                        0.0990    71.4382 f
+  calu/div_100/u_div/u_add_PartRem_1_15/U81/QN (NAND3X0)
+                                                        0.1357    71.5739 r
+  calu/div_100/u_div/u_add_PartRem_1_15/U39/QN (NAND2X0)
+                                                        0.1036    71.6776 f
+  calu/div_100/u_div/u_add_PartRem_1_15/U41/QN (NAND3X0)
+                                                        0.1385    71.8161 r
+  calu/div_100/u_div/u_add_PartRem_1_15/U45/QN (NAND2X0)
+                                                        0.1025    71.9186 f
+  calu/div_100/u_div/u_add_PartRem_1_15/U47/QN (NAND3X0)
+                                                        0.1377    72.0563 r
+  calu/div_100/u_div/u_add_PartRem_1_15/U55/QN (NAND2X0)
+                                                        0.1025    72.1588 f
+  calu/div_100/u_div/u_add_PartRem_1_15/U57/QN (NAND3X0)
+                                                        0.1377    72.2965 r
+  calu/div_100/u_div/u_add_PartRem_1_15/U61/QN (NAND2X0)
+                                                        0.1022    72.3987 f
+  calu/div_100/u_div/u_add_PartRem_1_15/U63/QN (NAND3X0)
+                                                        0.1377    72.5364 r
+  calu/div_100/u_div/u_add_PartRem_1_15/U66/QN (NAND2X0)
+                                                        0.1018    72.6382 f
+  calu/div_100/u_div/u_add_PartRem_1_15/U67/QN (NAND3X0)
+                                                        0.1397    72.7779 r
+  calu/div_100/u_div/u_add_PartRem_1_15/U71/QN (NAND2X0)
+                                                        0.1020    72.8799 f
+  calu/div_100/u_div/u_add_PartRem_1_15/U73/QN (NAND3X0)
+                                                        0.1334    73.0132 r
+  calu/div_100/u_div/u_add_PartRem_1_15/U92/QN (NAND2X0)
+                                                        0.1016    73.1149 f
+  calu/div_100/u_div/u_add_PartRem_1_15/U93/QN (NAND3X0)
+                                                        0.1396    73.2545 r
+  calu/div_100/u_div/u_add_PartRem_1_15/U97/QN (NAND2X0)
+                                                        0.1020    73.3564 f
+  calu/div_100/u_div/u_add_PartRem_1_15/U99/QN (NAND3X0)
+                                                        0.1355    73.4919 r
+  calu/div_100/u_div/u_add_PartRem_1_15/CO (Complex_ALU_DW01_add_42)
+                                                        0.0000    73.4919 r
+  calu/div_100/U180/Q (AND2X4)                     
+                                                        0.5391    74.0310 r
+  calu/div_100/u_div/u_mx_PartRem_0_15_0/Q (MUX21X1)  
+                                                        1.1685    75.1994 r
+  calu/div_100/u_div/u_add_PartRem_1_14/A[0] (Complex_ALU_DW01_add_41)
+                                                        0.0000    75.1994 r
+  calu/div_100/u_div/u_add_PartRem_1_14/U105/QN (NAND2X0)
+                                                        0.4844    75.6839 f
+  calu/div_100/u_div/u_add_PartRem_1_14/U107/QN (NAND3X0)
+                                                        0.1479    75.8318 r
+  calu/div_100/u_div/u_add_PartRem_1_14/U102/QN (NAND2X0)
+                                                        0.1041    75.9359 f
+  calu/div_100/u_div/u_add_PartRem_1_14/U103/QN (NAND3X0)
+                                                        0.1629    76.0988 r
+  calu/div_100/u_div/u_add_PartRem_1_14/U46/CO (FADDX1)
+                                                        0.3483    76.4471 r
+  calu/div_100/u_div/u_add_PartRem_1_14/U84/QN (NAND2X0)
+                                                        0.0984    76.5455 f
+  calu/div_100/u_div/u_add_PartRem_1_14/U85/QN (NAND3X0)
+                                                        0.1391    76.6846 r
+  calu/div_100/u_div/u_add_PartRem_1_14/U89/QN (NAND2X0)
+                                                        0.1019    76.7865 f
+  calu/div_100/u_div/u_add_PartRem_1_14/U91/QN (NAND3X0)
+                                                        0.1454    76.9320 r
+  calu/div_100/u_div/u_add_PartRem_1_14/U109/QN (NAND2X0)
+                                                        0.1032    77.0352 f
+  calu/div_100/u_div/u_add_PartRem_1_14/U110/QN (NAND3X0)
+                                                        0.1382    77.1734 r
+  calu/div_100/u_div/u_add_PartRem_1_14/U112/QN (NAND2X0)
+                                                        0.1025    77.2759 f
+  calu/div_100/u_div/u_add_PartRem_1_14/U114/QN (NAND3X0)
+                                                        0.1377    77.4136 r
+  calu/div_100/u_div/u_add_PartRem_1_14/U57/QN (NAND2X0)
+                                                        0.1022    77.5158 f
+  calu/div_100/u_div/u_add_PartRem_1_14/U59/QN (NAND3X0)
+                                                        0.1544    77.6702 r
+  calu/div_100/u_div/u_add_PartRem_1_14/U27/CO (FADDX1)
+                                                        0.3440    78.0142 r
+  calu/div_100/u_div/u_add_PartRem_1_14/U79/QN (NAND2X0)
+                                                        0.1060    78.1202 f
+  calu/div_100/u_div/u_add_PartRem_1_14/U81/QN (NAND3X0)
+                                                        0.1356    78.2558 r
+  calu/div_100/u_div/u_add_PartRem_1_14/U63/QN (NAND2X0)
+                                                        0.1018    78.3576 f
+  calu/div_100/u_div/u_add_PartRem_1_14/U64/QN (NAND3X0)
+                                                        0.1398    78.4974 r
+  calu/div_100/u_div/u_add_PartRem_1_14/U68/QN (NAND2X0)
+                                                        0.1020    78.5994 f
+  calu/div_100/u_div/u_add_PartRem_1_14/U70/QN (NAND3X0)
+                                                        0.1373    78.7367 r
+  calu/div_100/u_div/u_add_PartRem_1_14/U97/QN (NAND2X0)
+                                                        0.1025    78.8392 f
+  calu/div_100/u_div/u_add_PartRem_1_14/U100/QN (NAND3X0)
+                                                        0.1525    78.9917 r
+  calu/div_100/u_div/u_add_PartRem_1_14/U25/CO (FADDX1)
+                                                        0.3431    79.3348 r
+  calu/div_100/u_div/u_add_PartRem_1_14/U42/QN (NAND2X0)
+                                                        0.1061    79.4408 f
+  calu/div_100/u_div/u_add_PartRem_1_14/U43/QN (NAND3X0)
+                                                        0.1330    79.5739 r
+  calu/div_100/u_div/u_add_PartRem_1_14/U53/QN (NAND2X0)
+                                                        0.1019    79.6758 f
+  calu/div_100/u_div/u_add_PartRem_1_14/U54/QN (NAND3X0)
+                                                        0.1374    79.8132 r
+  calu/div_100/u_div/u_add_PartRem_1_14/U72/QN (NAND2X0)
+                                                        0.1025    79.9156 f
+  calu/div_100/u_div/u_add_PartRem_1_14/U76/QN (NAND3X0)
+                                                        0.1454    80.0610 r
+  calu/div_100/u_div/u_add_PartRem_1_14/CO (Complex_ALU_DW01_add_41)
+                                                        0.0000    80.0610 r
+  calu/div_100/U121/QN (NAND2X0)              
+                                                        0.4682    80.5292 f
+  calu/div_100/U120/Q (MUX21X1)                 
+                                                        0.7998    81.3290 r
+  calu/div_100/u_div/u_add_PartRem_1_13/A[0] (Complex_ALU_DW01_add_40)
+                                                        0.0000    81.3290 r
+  calu/div_100/u_div/u_add_PartRem_1_13/U45/QN (NAND2X0)
+                                                        0.4830    81.8119 f
+  calu/div_100/u_div/u_add_PartRem_1_13/U48/QN (NAND3X0)
+                                                        0.1383    81.9502 r
+  calu/div_100/u_div/u_add_PartRem_1_13/U55/QN (NAND2X0)
+                                                        0.1160    82.0662 f
+  calu/div_100/u_div/u_add_PartRem_1_13/U57/QN (NAND3X0)
+                                                        0.1586    82.2249 r
+  calu/div_100/u_div/u_add_PartRem_1_13/U34/CO (FADDX1)
+                                                        0.3466    82.5714 r
+  calu/div_100/u_div/u_add_PartRem_1_13/U118/QN (NAND2X0)
+                                                        0.1057    82.6771 f
+  calu/div_100/u_div/u_add_PartRem_1_13/U133/QN (NAND3X0)
+                                                        0.1329    82.8100 r
+  calu/div_100/u_div/u_add_PartRem_1_13/U115/QN (NAND2X0)
+                                                        0.1020    82.9120 f
+  calu/div_100/u_div/u_add_PartRem_1_13/U136/QN (NAND3X0)
+                                                        0.1452    83.0572 r
+  calu/div_100/u_div/u_add_PartRem_1_13/U66/QN (NAND2X0)
+                                                        0.1032    83.1604 f
+  calu/div_100/u_div/u_add_PartRem_1_13/U67/QN (NAND3X0)
+                                                        0.1448    83.3052 r
+  calu/div_100/u_div/u_add_PartRem_1_13/U116/QN (NAND2X0)
+                                                        0.1143    83.4196 f
+  calu/div_100/u_div/u_add_PartRem_1_13/U124/QN (NAND3X0)
+                                                        0.1260    83.5455 r
+  calu/div_100/u_div/u_add_PartRem_1_13/U95/QN (NAND2X0)
+                                                        0.1016    83.6471 f
+  calu/div_100/u_div/u_add_PartRem_1_13/U97/QN (NAND3X0)
+                                                        0.1478    83.7950 r
+  calu/div_100/u_div/u_add_PartRem_1_13/U41/QN (NAND2X0)
+                                                        0.1036    83.8986 f
+  calu/div_100/u_div/u_add_PartRem_1_13/U43/QN (NAND3X0)
+                                                        0.1449    84.0434 r
+  calu/div_100/u_div/u_add_PartRem_1_13/U99/QN (NAND2X0)
+                                                        0.1024    84.1459 f
+  calu/div_100/u_div/u_add_PartRem_1_13/U113/QN (NAND3X0)
+                                                        0.1335    84.2793 r
+  calu/div_100/u_div/u_add_PartRem_1_13/U128/QN (NAND2X0)
+                                                        0.1020    84.3813 f
+  calu/div_100/u_div/u_add_PartRem_1_13/U131/QN (NAND3X0)
+                                                        0.1375    84.5188 r
+  calu/div_100/u_div/u_add_PartRem_1_13/U80/QN (NAND2X0)
+                                                        0.1018    84.6207 f
+  calu/div_100/u_div/u_add_PartRem_1_13/U81/QN (NAND3X0)
+                                                        0.1441    84.7648 r
+  calu/div_100/u_div/u_add_PartRem_1_13/U85/QN (NAND2X0)
+                                                        0.1026    84.8673 f
+  calu/div_100/u_div/u_add_PartRem_1_13/U87/QN (NAND3X0)
+                                                        0.1335    85.0009 r
+  calu/div_100/u_div/u_add_PartRem_1_13/U121/QN (NAND2X0)
+                                                        0.1020    85.1029 f
+  calu/div_100/u_div/u_add_PartRem_1_13/U127/QN (NAND3X0)
+                                                        0.1342    85.2370 r
+  calu/div_100/u_div/u_add_PartRem_1_13/U102/QN (NAND2X0)
+                                                        0.1012    85.3383 f
+  calu/div_100/u_div/u_add_PartRem_1_13/U103/QN (NAND3X0)
+                                                        0.1394    85.4777 r
+  calu/div_100/u_div/u_add_PartRem_1_13/U107/QN (NAND2X0)
+                                                        0.1020    85.5796 f
+  calu/div_100/u_div/u_add_PartRem_1_13/U109/QN (NAND3X0)
+                                                        0.1338    85.7134 r
+  calu/div_100/u_div/u_add_PartRem_1_13/U69/QN (NAND2X0)
+                                                        0.1017    85.8151 f
+  calu/div_100/u_div/u_add_PartRem_1_13/U71/QN (NAND3X0)
+                                                        0.1331    85.9481 r
+  calu/div_100/u_div/u_add_PartRem_1_13/U75/QN (NAND2X0)
+                                                        0.1020    86.0501 f
+  calu/div_100/u_div/u_add_PartRem_1_13/U77/QN (NAND3X0)
+                                                        0.1363    86.1863 r
+  calu/div_100/u_div/u_add_PartRem_1_13/CO (Complex_ALU_DW01_add_40)
+                                                        0.0000    86.1863 r
+  calu/div_100/U73/Q (AND2X1)                
+                                                        0.5290    86.7154 r
+  calu/div_100/u_div/u_mx_PartRem_0_13_1/Q (MUX21X1) 
+                                                        1.0900    87.8053 r
+  calu/div_100/u_div/u_add_PartRem_1_12/A[1] (Complex_ALU_DW01_add_39)
+                                                        0.0000    87.8053 r
+  calu/div_100/u_div/u_add_PartRem_1_12/U55/QN (NAND2X0)
+                                                        0.4850    88.2903 f
+  calu/div_100/u_div/u_add_PartRem_1_12/U130/QN (NAND3X0)
+                                                        0.1370    88.4273 r
+  calu/div_100/u_div/u_add_PartRem_1_12/U112/QN (NAND2X0)
+                                                        0.1041    88.5314 f
+  calu/div_100/u_div/u_add_PartRem_1_12/U114/QN (NAND3X0)
+                                                        0.1347    88.6661 r
+  calu/div_100/u_div/u_add_PartRem_1_12/U116/QN (NAND2X0)
+                                                        0.1025    88.7686 f
+  calu/div_100/u_div/u_add_PartRem_1_12/U118/QN (NAND3X0)
+                                                        0.1377    88.9063 r
+  calu/div_100/u_div/u_add_PartRem_1_12/U68/QN (NAND2X0)
+                                                        0.1025    89.0088 f
+  calu/div_100/u_div/u_add_PartRem_1_12/U69/QN (NAND3X0)
+                                                        0.1459    89.1547 r
+  calu/div_100/u_div/u_add_PartRem_1_12/U57/QN (NAND2X0)
+                                                        0.1033    89.2580 f
+  calu/div_100/u_div/u_add_PartRem_1_12/U59/QN (NAND3X0)
+                                                        0.1383    89.3962 r
+  calu/div_100/u_div/u_add_PartRem_1_12/U63/QN (NAND2X0)
+                                                        0.1025    89.4988 f
+  calu/div_100/u_div/u_add_PartRem_1_12/U65/QN (NAND3X0)
+                                                        0.1462    89.6450 r
+  calu/div_100/u_div/u_add_PartRem_1_12/U76/QN (NAND2X0)
+                                                        0.1037    89.7486 f
+  calu/div_100/u_div/u_add_PartRem_1_12/U78/QN (NAND3X0)
+                                                        0.1465    89.8951 r
+  calu/div_100/u_div/u_add_PartRem_1_12/U82/QN (NAND2X0)
+                                                        0.1036    89.9988 f
+  calu/div_100/u_div/u_add_PartRem_1_12/U84/QN (NAND3X0)
+                                                        0.1467    90.1455 r
+  calu/div_100/u_div/u_add_PartRem_1_12/U95/QN (NAND2X0)
+                                                        0.1036    90.2491 f
+  calu/div_100/u_div/u_add_PartRem_1_12/U96/QN (NAND3X0)
+                                                        0.1503    90.3995 r
+  calu/div_100/u_div/u_add_PartRem_1_12/U131/QN (NAND2X0)
+                                                        0.1037    90.5032 f
+  calu/div_100/u_div/u_add_PartRem_1_12/U133/QN (NAND3X0)
+                                                        0.1386    90.6418 r
+  calu/div_100/u_div/u_add_PartRem_1_12/U137/QN (NAND2X0)
+                                                        0.1026    90.7444 f
+  calu/div_100/u_div/u_add_PartRem_1_12/U139/QN (NAND3X0)
+                                                        0.1377    90.8821 r
+  calu/div_100/u_div/u_add_PartRem_1_12/U92/QN (NAND2X0)
+                                                        0.1026    90.9846 f
+  calu/div_100/u_div/u_add_PartRem_1_12/U93/QN (NAND3X0)
+                                                        0.1395    91.1241 r
+  calu/div_100/u_div/u_add_PartRem_1_12/U127/QN (NAND2X0)
+                                                        0.1025    91.2266 f
+  calu/div_100/u_div/u_add_PartRem_1_12/U142/QN (NAND3X0)
+                                                        0.1464    91.3730 r
+  calu/div_100/u_div/u_add_PartRem_1_12/U98/QN (NAND2X0)
+                                                        0.1033    91.4763 f
+  calu/div_100/u_div/u_add_PartRem_1_12/U100/QN (NAND3X0)
+                                                        0.1383    91.6146 r
+  calu/div_100/u_div/u_add_PartRem_1_12/U104/QN (NAND2X0)
+                                                        0.1025    91.7171 f
+  calu/div_100/u_div/u_add_PartRem_1_12/U106/QN (NAND3X0)
+                                                        0.1335    91.8506 r
+  calu/div_100/u_div/u_add_PartRem_1_12/U73/QN (NAND2X0)
+                                                        0.1020    91.9526 f
+  calu/div_100/u_div/u_add_PartRem_1_12/U74/QN (NAND3X0)
+                                                        0.1373    92.0899 r
+  calu/div_100/u_div/u_add_PartRem_1_12/U88/QN (NAND2X0)
+                                                        0.1025    92.1924 f
+  calu/div_100/u_div/u_add_PartRem_1_12/U89/QN (NAND3X0)
+                                                        0.1456    92.3380 r
+  calu/div_100/u_div/u_add_PartRem_1_12/U109/QN (NAND2X0)
+                                                        0.1036    92.4416 f
+  calu/div_100/u_div/u_add_PartRem_1_12/U111/QN (NAND3X0)
+                                                        0.1292    92.5708 r
+  calu/div_100/u_div/u_add_PartRem_1_12/CO (Complex_ALU_DW01_add_39)
+                                                        0.0000    92.5708 r
+  calu/div_100/U100/Q (AND2X2)               
+                                                        0.4952    93.0660 r
+  calu/div_100/u_div/u_mx_PartRem_0_12_0/Q (MUX21X1) 
+                                                        1.0850    94.1510 r
+  calu/div_100/u_div/u_add_PartRem_1_11/A[0] (Complex_ALU_DW01_add_38)
+                                                        0.0000    94.1510 r
+  calu/div_100/u_div/u_add_PartRem_1_11/U66/QN (NAND2X0)
+                                                        0.4844    94.6353 f
+  calu/div_100/u_div/u_add_PartRem_1_11/U69/QN (NAND3X0)
+                                                        0.1507    94.7860 r
+  calu/div_100/u_div/u_add_PartRem_1_11/U142/QN (NAND2X0)
+                                                        0.1048    94.8909 f
+  calu/div_100/u_div/u_add_PartRem_1_11/U143/QN (NAND3X0)
+                                                        0.1406    95.0314 r
+  calu/div_100/u_div/u_add_PartRem_1_11/U62/QN (NAND2X0)
+                                                        0.1041    95.1355 f
+  calu/div_100/u_div/u_add_PartRem_1_11/U64/QN (NAND3X0)
+                                                        0.1388    95.2744 r
+  calu/div_100/u_div/u_add_PartRem_1_11/U81/QN (NAND2X0)
+                                                        0.1031    95.3774 f
+  calu/div_100/u_div/u_add_PartRem_1_11/U83/QN (NAND3X0)
+                                                        0.1339    95.5113 r
+  calu/div_100/u_div/u_add_PartRem_1_11/U87/QN (NAND2X0)
+                                                        0.1020    95.6133 f
+  calu/div_100/u_div/u_add_PartRem_1_11/U89/QN (NAND3X0)
+                                                        0.1377    95.7510 r
+  calu/div_100/u_div/u_add_PartRem_1_11/U145/QN (NAND2X0)
+                                                        0.1026    95.8535 f
+  calu/div_100/u_div/u_add_PartRem_1_11/U148/QN (NAND3X0)
+                                                        0.1337    95.9872 r
+  calu/div_100/u_div/u_add_PartRem_1_11/U151/QN (NAND2X0)
+                                                        0.1195    96.1067 f
+  calu/div_100/u_div/u_add_PartRem_1_11/U51/QN (NAND3X0)
+                                                        0.1511    96.2579 r
+  calu/div_100/u_div/u_add_PartRem_1_11/U73/QN (NAND2X0)
+                                                        0.0995    96.3574 f
+  calu/div_100/u_div/u_add_PartRem_1_11/U75/QN (NAND3X0)
+                                                        0.1359    96.4933 r
+  calu/div_100/u_div/u_add_PartRem_1_11/U78/QN (NAND2X0)
+                                                        0.1036    96.5969 f
+  calu/div_100/u_div/u_add_PartRem_1_11/U79/QN (NAND3X0)
+                                                        0.1468    96.7437 r
+  calu/div_100/u_div/u_add_PartRem_1_11/U93/QN (NAND2X0)
+                                                        0.1036    96.8473 f
+  calu/div_100/u_div/u_add_PartRem_1_11/U95/QN (NAND3X0)
+                                                        0.1463    96.9935 r
+  calu/div_100/u_div/u_add_PartRem_1_11/U99/QN (NAND2X0)
+                                                        0.1032    97.0968 f
+  calu/div_100/u_div/u_add_PartRem_1_11/U101/QN (NAND3X0)
+                                                        0.1382    97.2350 r
+  calu/div_100/u_div/u_add_PartRem_1_11/U105/QN (NAND2X0)
+                                                        0.1026    97.3375 f
+  calu/div_100/u_div/u_add_PartRem_1_11/U107/QN (NAND3X0)
+                                                        0.1462    97.4838 r
+  calu/div_100/u_div/u_add_PartRem_1_11/U54/QN (NAND2X0)
+                                                        0.1151    97.5988 f
+  calu/div_100/u_div/u_add_PartRem_1_11/U56/QN (NAND3X0)
+                                                        0.1390    97.7379 r
+  calu/div_100/u_div/u_add_PartRem_1_11/U60/QN (NAND2X0)
+                                                        0.1036    97.8414 f
+  calu/div_100/u_div/u_add_PartRem_1_11/U61/QN (NAND3X0)
+                                                        0.1385    97.9799 r
+  calu/div_100/u_div/u_add_PartRem_1_11/U126/QN (NAND2X0)
+                                                        0.1025    98.0824 f
+  calu/div_100/u_div/u_add_PartRem_1_11/U128/QN (NAND3X0)
+                                                        0.1377    98.2200 r
+  calu/div_100/u_div/u_add_PartRem_1_11/U132/QN (NAND2X0)
+                                                        0.1021    98.3222 f
+  calu/div_100/u_div/u_add_PartRem_1_11/U134/QN (NAND3X0)
+                                                        0.1382    98.4604 r
+  calu/div_100/u_div/u_add_PartRem_1_11/U138/QN (NAND2X0)
+                                                        0.1022    98.5626 f
+  calu/div_100/u_div/u_add_PartRem_1_11/U140/QN (NAND3X0)
+                                                        0.1333    98.6959 r
+  calu/div_100/u_div/u_add_PartRem_1_11/U110/QN (NAND2X0)
+                                                        0.1013    98.7972 f
+  calu/div_100/u_div/u_add_PartRem_1_11/U111/QN (NAND3X0)
+                                                        0.1394    98.9366 r
+  calu/div_100/u_div/u_add_PartRem_1_11/U115/QN (NAND2X0)
+                                                        0.1020    99.0386 f
+  calu/div_100/u_div/u_add_PartRem_1_11/U117/QN (NAND3X0)
+                                                        0.1373    99.1758 r
+  calu/div_100/u_div/u_add_PartRem_1_11/U120/QN (NAND2X0)
+                                                        0.1025    99.2783 f
+  calu/div_100/u_div/u_add_PartRem_1_11/U123/QN (NAND3X0)
+                                                        0.1363    99.4146 r
+  calu/div_100/u_div/u_add_PartRem_1_11/CO (Complex_ALU_DW01_add_38)
+                                                        0.0000    99.4146 r
+  calu/div_100/U245/QN (NAND2X0)              
+                                                        0.4346    99.8492 f
+  calu/div_100/U244/Q (MUX21X1)               
+                                                        0.7906   100.6399 r
+  calu/div_100/u_div/u_add_PartRem_1_10/A[0] (Complex_ALU_DW01_add_37)
+                                                        0.0000   100.6399 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U49/ZN (INVX0)
+                                                        0.4422   101.0821 f
+  calu/div_100/u_div/u_add_PartRem_1_10/U50/ZN (INVX0)
+                                                        0.1073   101.1894 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U44/CO (FADDX1)
+                                                        0.3331   101.5226 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U131/QN (NAND2X0)
+                                                        0.0997   101.6223 f
+  calu/div_100/u_div/u_add_PartRem_1_10/U132/QN (NAND3X0)
+                                                        0.1456   101.7679 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U136/QN (NAND2X0)
+                                                        0.1033   101.8712 f
+  calu/div_100/u_div/u_add_PartRem_1_10/U138/QN (NAND3X0)
+                                                        0.1434   102.0146 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U163/QN (NAND2X0)
+                                                        0.1037   102.1183 f
+  calu/div_100/u_div/u_add_PartRem_1_10/U166/QN (NAND3X0)
+                                                        0.1386   102.2569 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U111/QN (NAND2X0)
+                                                        0.1022   102.3591 f
+  calu/div_100/u_div/u_add_PartRem_1_10/U112/QN (NAND3X0)
+                                                        0.1374   102.4965 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U154/QN (NAND2X0)
+                                                        0.1017   102.5982 f
+  calu/div_100/u_div/u_add_PartRem_1_10/U155/QN (NAND3X0)
+                                                        0.1396   102.7379 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U160/QN (NAND2X0)
+                                                        0.1020   102.8398 f
+  calu/div_100/u_div/u_add_PartRem_1_10/U161/QN (NAND3X0)
+                                                        0.1373   102.9771 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U144/QN (NAND2X0)
+                                                        0.1022   103.0793 f
+  calu/div_100/u_div/u_add_PartRem_1_10/U145/QN (NAND3X0)
+                                                        0.1400   103.2192 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U149/QN (NAND2X0)
+                                                        0.1133   103.3325 f
+  calu/div_100/u_div/u_add_PartRem_1_10/U151/QN (NAND3X0)
+                                                        0.1381   103.4706 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U56/QN (NAND2X0)
+                                                        0.1033   103.5739 f
+  calu/div_100/u_div/u_add_PartRem_1_10/U58/QN (NAND3X0)
+                                                        0.1428   103.7166 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U71/QN (NAND2X0)
+                                                        0.1027   103.8193 f
+  calu/div_100/u_div/u_add_PartRem_1_10/U72/QN (NAND3X0)
+                                                        0.1337   103.9530 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U96/QN (NAND2X0)
+                                                        0.1016   104.0546 f
+  calu/div_100/u_div/u_add_PartRem_1_10/U97/QN (NAND3X0)
+                                                        0.1401   104.1947 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U101/QN (NAND2X0)
+                                                        0.1020   104.2967 f
+  calu/div_100/u_div/u_add_PartRem_1_10/U103/QN (NAND3X0)
+                                                        0.1339   104.4306 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U82/QN (NAND2X0)
+                                                        0.1020   104.5326 f
+  calu/div_100/u_div/u_add_PartRem_1_10/U83/QN (NAND3X0)
+                                                        0.1337   104.6664 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U115/QN (NAND2X0)
+                                                        0.1016   104.7680 f
+  calu/div_100/u_div/u_add_PartRem_1_10/U116/QN (NAND3X0)
+                                                        0.1396   104.9076 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U120/QN (NAND2X0)
+                                                        0.1020   105.0095 f
+  calu/div_100/u_div/u_add_PartRem_1_10/U122/QN (NAND3X0)
+                                                        0.1339   105.1434 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U86/QN (NAND2X0)
+                                                        0.1017   105.2451 f
+  calu/div_100/u_div/u_add_PartRem_1_10/U87/QN (NAND3X0)
+                                                        0.1396   105.3847 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U91/QN (NAND2X0)
+                                                        0.1020   105.4867 f
+  calu/div_100/u_div/u_add_PartRem_1_10/U93/QN (NAND3X0)
+                                                        0.1385   105.6252 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U125/QN (NAND2X0)
+                                                        0.1022   105.7274 f
+  calu/div_100/u_div/u_add_PartRem_1_10/U128/QN (NAND3X0)
+                                                        0.1376   105.8650 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U63/QN (NAND2X0)
+                                                        0.1029   105.9679 f
+  calu/div_100/u_div/u_add_PartRem_1_10/U66/QN (NAND3X0)
+                                                        0.1385   106.1064 r
+  calu/div_100/u_div/u_add_PartRem_1_10/U106/QN (NAND2X0)
+                                                        0.1140   106.2204 f
+  calu/div_100/u_div/u_add_PartRem_1_10/U108/QN (NAND3X0)
+                                                        0.1366   106.3570 r
+  calu/div_100/u_div/u_add_PartRem_1_10/CO (Complex_ALU_DW01_add_37)
+                                                        0.0000   106.3570 r
+  calu/div_100/U61/QN (NAND2X0)            
+                                                        0.4679   106.8248 f
+  calu/div_100/U240/Q (MUX21X1)               
+                                                        0.8045   107.6293 r
+  calu/div_100/u_div/u_add_PartRem_1_9/A[0] (Complex_ALU_DW01_add_36)
+                                                        0.0000   107.6293 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U94/QN (NAND2X0)
+                                                        0.5021   108.1315 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U97/QN (NAND3X0)
+                                                        0.1313   108.2628 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U125/QN (NAND2X0)
+                                                        0.0944   108.3572 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U159/QN (NAND3X0)
+                                                        0.1684   108.5256 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U58/QN (NAND2X0)
+                                                        0.1052   108.6307 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U59/QN (NAND3X0)
+                                                        0.1531   108.7838 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U128/QN (NAND2X0)
+                                                        0.1037   108.8876 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U130/QN (NAND3X0)
+                                                        0.1344   109.0219 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U132/QN (NAND2X0)
+                                                        0.1020   109.1239 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U134/QN (NAND3X0)
+                                                        0.1376   109.2616 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U158/QN (NAND2X0)
+                                                        0.1026   109.3641 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U167/QN (NAND3X0)
+                                                        0.1377   109.5018 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U88/QN (NAND2X0)
+                                                        0.1022   109.6040 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U89/QN (NAND3X0)
+                                                        0.1333   109.7373 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U101/QN (NAND2X0)
+                                                        0.1016   109.8389 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U102/QN (NAND3X0)
+                                                        0.1417   109.9806 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U106/QN (NAND2X0)
+                                                        0.1021   110.0827 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U108/QN (NAND3X0)
+                                                        0.1376   110.2203 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U76/QN (NAND2X0)
+                                                        0.1028   110.3231 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U77/QN (NAND3X0)
+                                                        0.1396   110.4626 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U170/QN (NAND2X0)
+                                                        0.1018   110.5645 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U171/QN (NAND3X0)
+                                                        0.1400   110.7045 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U173/QN (NAND2X0)
+                                                        0.1020   110.8065 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U175/QN (NAND3X0)
+                                                        0.1380   110.9445 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U112/QN (NAND2X0)
+                                                        0.1022   111.0467 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U114/QN (NAND3X0)
+                                                        0.1406   111.1872 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U161/QN (NAND2X0)
+                                                        0.1022   111.2894 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U164/QN (NAND3X0)
+                                                        0.1337   111.4232 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U147/QN (NAND2X0)
+                                                        0.1012   111.5243 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U148/QN (NAND3X0)
+                                                        0.1396   111.6639 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U153/QN (NAND2X0)
+                                                        0.1016   111.7656 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U154/QN (NAND3X0)
+                                                        0.1397   111.9053 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U137/QN (NAND2X0)
+                                                        0.1016   112.0069 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U138/QN (NAND3X0)
+                                                        0.1401   112.1470 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U142/QN (NAND2X0)
+                                                        0.1020   112.2490 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U144/QN (NAND3X0)
+                                                        0.1380   112.3871 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U65/QN (NAND2X0)
+                                                        0.1022   112.4892 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U66/QN (NAND3X0)
+                                                        0.1391   112.6283 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U79/QN (NAND2X0)
+                                                        0.1025   112.7308 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U82/QN (NAND3X0)
+                                                        0.1462   112.8770 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U109/QN (NAND2X0)
+                                                        0.1157   112.9927 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U119/QN (NAND3X0)
+                                                        0.1310   113.1237 r
+  calu/div_100/u_div/u_add_PartRem_1_9/U123/QN (NAND2X0)
+                                                        0.1022   113.2259 f
+  calu/div_100/u_div/u_add_PartRem_1_9/U124/QN (NAND3X0)
+                                                        0.1367   113.3626 r
+  calu/div_100/u_div/u_add_PartRem_1_9/CO (Complex_ALU_DW01_add_36)
+                                                        0.0000   113.3626 r
+  calu/div_100/U164/Q (AND2X1)              
+                                                        0.5166   113.8791 r
+  calu/div_100/u_div/u_mx_PartRem_0_9_1/Q (MUX21X1)  
+                                                        0.9340   114.8132 f
+  calu/div_100/u_div/u_add_PartRem_1_8/A[1] (Complex_ALU_DW01_add_35)
+                                                        0.0000   114.8132 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U169/QN (NAND2X0)
+                                                        0.4919   115.3050 r
+  calu/div_100/u_div/u_add_PartRem_1_8/U170/QN (NAND3X0)
+                                                        0.1220   115.4270 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U102/QN (NAND2X0)
+                                                        0.1174   115.5444 r
+  calu/div_100/u_div/u_add_PartRem_1_8/U104/QN (NAND3X0)
+                                                        0.1180   115.6624 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U108/QN (NAND2X0)
+                                                        0.1160   115.7783 r
+  calu/div_100/u_div/u_add_PartRem_1_8/U109/QN (NAND3X0)
+                                                        0.1178   115.8962 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U81/QN (NAND2X0)
+                                                        0.1149   116.0111 r
+  calu/div_100/u_div/u_add_PartRem_1_8/U84/QN (NAND3X0)
+                                                        0.1177   116.1288 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U95/QN (NAND2X0)
+                                                        0.1148   116.2436 r
+  calu/div_100/u_div/u_add_PartRem_1_8/U96/QN (NAND3X0)
+                                                        0.1177   116.3614 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U117/QN (NAND2X0)
+                                                        0.1148   116.4762 r
+  calu/div_100/u_div/u_add_PartRem_1_8/U118/QN (NAND3X0)
+                                                        0.1177   116.5939 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U134/QN (NAND2X0)
+                                                        0.1148   116.7087 r
+  calu/div_100/u_div/u_add_PartRem_1_8/U136/QN (NAND3X0)
+                                                        0.1177   116.8264 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U141/QN (NAND2X0)
+                                                        0.1152   116.9417 r
+  calu/div_100/u_div/u_add_PartRem_1_8/U142/QN (NAND3X0)
+                                                        0.1144   117.0561 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U111/QN (NAND2X0)
+                                                        0.1148   117.1709 r
+  calu/div_100/u_div/u_add_PartRem_1_8/U113/QN (NAND3X0)
+                                                        0.1177   117.2886 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U165/QN (NAND2X0)
+                                                        0.1153   117.4039 r
+  calu/div_100/u_div/u_add_PartRem_1_8/U173/QN (NAND3X0)
+                                                        0.1189   117.5228 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U174/QN (NAND2X0)
+                                                        0.1169   117.6397 r
+  calu/div_100/u_div/u_add_PartRem_1_8/U176/QN (NAND3X0)
+                                                        0.1233   117.7630 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U121/QN (NAND2X0)
+                                                        0.1179   117.8809 r
+  calu/div_100/u_div/u_add_PartRem_1_8/U122/QN (NAND3X0)
+                                                        0.1180   117.9989 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U155/QN (NAND2X0)
+                                                        0.1150   118.1139 r
+  calu/div_100/u_div/u_add_PartRem_1_8/U157/QN (NAND3X0)
+                                                        0.1178   118.2317 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U161/QN (NAND2X0)
+                                                        0.1133   118.3450 r
+  calu/div_100/u_div/u_add_PartRem_1_8/U163/QN (NAND3X0)
+                                                        0.1175   118.4626 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U99/QN (NAND2X0)
+                                                        0.1147   118.5773 r
+  calu/div_100/u_div/u_add_PartRem_1_8/U100/QN (NAND3X0)
+                                                        0.1348   118.7121 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U44/CO (FADDX1)
+                                                        0.3451   119.0572 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U67/QN (NAND2X0)
+                                                        0.1099   119.1671 r
+  calu/div_100/u_div/u_add_PartRem_1_8/U68/QN (NAND3X0)
+                                                        0.1169   119.2840 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U130/QN (NAND2X0)
+                                                        0.1336   119.4176 r
+  calu/div_100/u_div/u_add_PartRem_1_8/U132/QN (NAND3X0)
+                                                        0.1319   119.5495 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U73/QN (NAND2X0)
+                                                        0.1138   119.6633 r
+  calu/div_100/u_div/u_add_PartRem_1_8/U76/QN (NAND3X0)
+                                                        0.1158   119.7791 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U146/QN (NAND2X0)
+                                                        0.1155   119.8946 r
+  calu/div_100/u_div/u_add_PartRem_1_8/U147/QN (NAND3X0)
+                                                        0.1144   120.0090 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U151/QN (NAND2X0)
+                                                        0.1148   120.1239 r
+  calu/div_100/u_div/u_add_PartRem_1_8/U153/QN (NAND3X0)
+                                                        0.1177   120.2416 f
+  calu/div_100/u_div/u_add_PartRem_1_8/U125/QN (NAND2X0)
+                                                        0.1148   120.3564 r
+  calu/div_100/u_div/u_add_PartRem_1_8/U127/QN (NAND3X0)
+                                                        0.1359   120.4923 f
+  calu/div_100/u_div/u_add_PartRem_1_8/CO (Complex_ALU_DW01_add_35)
+                                                        0.0000   120.4923 f
+  calu/div_100/U18/Q (AND2X2)                
+                                                        0.6017   121.0940 f
+  calu/div_100/U47/Q (OR2X1)                   
+                                                        0.6451   121.7392 f
+  calu/div_100/U221/QN (NAND2X0)               
+                                                        0.3925   122.1317 r
+  calu/div_100/u_div/u_add_PartRem_1_7/A[0] (Complex_ALU_DW01_add_34)
+                                                        0.0000   122.1317 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U147/QN (NAND2X0)
+                                                        0.4791   122.6108 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U149/QN (NAND3X0)
+                                                        0.1348   122.7456 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U183/QN (NAND2X0)
+                                                        0.0946   122.8403 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U186/QN (NAND3X0)
+                                                        0.1587   122.9990 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U97/QN (NAND2X0)
+                                                        0.1041   123.1031 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U99/QN (NAND3X0)
+                                                        0.1347   123.2378 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U104/QN (NAND2X0)
+                                                        0.1025   123.3403 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U105/QN (NAND3X0)
+                                                        0.1377   123.4780 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U82/QN (NAND2X0)
+                                                        0.1025   123.5805 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U84/QN (NAND3X0)
+                                                        0.1455   123.7260 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U87/QN (NAND2X0)
+                                                        0.1032   123.8292 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U89/QN (NAND3X0)
+                                                        0.1382   123.9674 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U93/QN (NAND2X0)
+                                                        0.1025   124.0699 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U95/QN (NAND3X0)
+                                                        0.1462   124.2161 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U118/QN (NAND2X0)
+                                                        0.1342   124.3503 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U106/QN (NAND3X0)
+                                                        0.1428   124.4931 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U121/QN (NAND2X0)
+                                                        0.0995   124.5926 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U124/QN (NAND3X0)
+                                                        0.1359   124.7285 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U133/QN (NAND2X0)
+                                                        0.1036   124.8321 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U135/QN (NAND3X0)
+                                                        0.1385   124.9706 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U174/QN (NAND2X0)
+                                                        0.1025   125.0731 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U176/QN (NAND3X0)
+                                                        0.1337   125.2068 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U181/QN (NAND2X0)
+                                                        0.1017   125.3084 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U182/QN (NAND3X0)
+                                                        0.1490   125.4575 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U164/QN (NAND2X0)
+                                                        0.1027   125.5602 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U166/QN (NAND3X0)
+                                                        0.1378   125.6980 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U171/QN (NAND2X0)
+                                                        0.1018   125.7998 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U172/QN (NAND3X0)
+                                                        0.1433   125.9430 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U68/QN (NAND2X0)
+                                                        0.1022   126.0453 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U70/QN (NAND3X0)
+                                                        0.1460   126.1912 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U73/QN (NAND2X0)
+                                                        0.1144   126.3057 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U76/QN (NAND3X0)
+                                                        0.1363   126.4420 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U77/QN (NAND2X0)
+                                                        0.1139   126.5559 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U139/QN (NAND3X0)
+                                                        0.1257   126.6816 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U155/QN (NAND2X0)
+                                                        0.1012   126.7829 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U156/QN (NAND3X0)
+                                                        0.1419   126.9248 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U160/QN (NAND2X0)
+                                                        0.1021   127.0270 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U162/QN (NAND3X0)
+                                                        0.1338   127.1608 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U53/QN (NAND2X0)
+                                                        0.1016   127.2624 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U56/QN (NAND3X0)
+                                                        0.1459   127.4083 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U62/QN (NAND2X0)
+                                                        0.1160   127.5243 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U64/QN (NAND3X0)
+                                                        0.1374   127.6616 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U110/QN (NAND2X0)
+                                                        0.1012   127.7629 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U111/QN (NAND3X0)
+                                                        0.1393   127.9021 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U115/QN (NAND2X0)
+                                                        0.1020   128.0041 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U117/QN (NAND3X0)
+                                                        0.1338   128.1379 r
+  calu/div_100/u_div/u_add_PartRem_1_7/U128/QN (NAND2X0)
+                                                        0.1016   128.2395 f
+  calu/div_100/u_div/u_add_PartRem_1_7/U130/QN (NAND3X0)
+                                                        0.1577   128.3972 r
+  calu/div_100/u_div/u_add_PartRem_1_7/CO (Complex_ALU_DW01_add_34)
+                                                        0.0000   128.3972 r
+  calu/div_100/U166/Q (AND2X4)                
+                                                        0.6051   129.0023 r
+  calu/div_100/u_div/u_mx_PartRem_0_7_7/Q (MUX21X1)   
+                                                        1.0215   130.0238 r
+  calu/div_100/u_div/u_add_PartRem_1_6/A[7] (Complex_ALU_DW01_add_33)
+                                                        0.0000   130.0238 r
+  calu/div_100/u_div/u_add_PartRem_1_6/U61/CO (FADDX1)
+                                                        2.3377   132.3615 r
+  calu/div_100/u_div/u_add_PartRem_1_6/U133/QN (NAND2X0)
+                                                        0.0983   132.4598 f
+  calu/div_100/u_div/u_add_PartRem_1_6/U134/QN (NAND3X0)
+                                                        0.1418   132.6016 r
+  calu/div_100/u_div/u_add_PartRem_1_6/U138/QN (NAND2X0)
+                                                        0.1021   132.7037 f
+  calu/div_100/u_div/u_add_PartRem_1_6/U140/QN (NAND3X0)
+                                                        0.1380   132.8417 r
+  calu/div_100/u_div/u_add_PartRem_1_6/U127/QN (NAND2X0)
+                                                        0.1027   132.9444 f
+  calu/div_100/u_div/u_add_PartRem_1_6/U130/QN (NAND3X0)
+                                                        0.1337   133.0780 r
+  calu/div_100/u_div/u_add_PartRem_1_6/U153/QN (NAND2X0)
+                                                        0.1017   133.1797 f
+  calu/div_100/u_div/u_add_PartRem_1_6/U154/QN (NAND3X0)
+                                                        0.1490   133.3287 r
+  calu/div_100/u_div/u_add_PartRem_1_6/U159/QN (NAND2X0)
+                                                        0.1023   133.4310 f
+  calu/div_100/u_div/u_add_PartRem_1_6/U160/QN (NAND3X0)
+                                                        0.1461   133.5772 r
+  calu/div_100/u_div/u_add_PartRem_1_6/U36/QN (NAND2X0)
+                                                        0.1027   133.6799 f
+  calu/div_100/u_div/u_add_PartRem_1_6/U38/QN (NAND3X0)
+                                                        0.1500   133.8299 r
+  calu/div_100/u_div/u_add_PartRem_1_6/U77/QN (NAND2X0)
+                                                        0.1149   133.9448 f
+  calu/div_100/u_div/u_add_PartRem_1_6/U78/QN (NAND3X0)
+                                                        0.1368   134.0816 r
+  calu/div_100/u_div/u_add_PartRem_1_6/U91/QN (NAND2X0)
+                                                        0.1019   134.1835 f
+  calu/div_100/u_div/u_add_PartRem_1_6/U92/QN (NAND3X0)
+                                                        0.1373   134.3207 r
+  calu/div_100/u_div/u_add_PartRem_1_6/U114/QN (NAND2X0)
+                                                        0.1024   134.4232 f
+  calu/div_100/u_div/u_add_PartRem_1_6/U115/QN (NAND3X0)
+                                                        0.1337   134.5569 r
+  calu/div_100/u_div/u_add_PartRem_1_6/U142/QN (NAND2X0)
+                                                        0.1019   134.6588 f
+  calu/div_100/u_div/u_add_PartRem_1_6/U144/QN (NAND3X0)
+                                                        0.1452   134.8040 r
+  calu/div_100/u_div/u_add_PartRem_1_6/U148/QN (NAND2X0)
+                                                        0.1036   134.9076 f
+  calu/div_100/u_div/u_add_PartRem_1_6/U150/QN (NAND3X0)
+                                                        0.1465   135.0540 r
+  calu/div_100/u_div/u_add_PartRem_1_6/U108/QN (NAND2X0)
+                                                        0.1036   135.1577 f
+  calu/div_100/u_div/u_add_PartRem_1_6/U110/QN (NAND3X0)
+                                                        0.1424   135.3000 r
+  calu/div_100/u_div/u_add_PartRem_1_6/U118/QN (NAND2X0)
+                                                        0.1021   135.4021 f
+  calu/div_100/u_div/u_add_PartRem_1_6/U119/QN (NAND3X0)
+                                                        0.1399   135.5420 r
+  calu/div_100/u_div/u_add_PartRem_1_6/U123/QN (NAND2X0)
+                                                        0.1020   135.6440 f
+  calu/div_100/u_div/u_add_PartRem_1_6/U125/QN (NAND3X0)
+                                                        0.1461   135.7902 r
+  calu/div_100/u_div/u_add_PartRem_1_6/U85/QN (NAND2X0)
+                                                        0.1036   135.8938 f
+  calu/div_100/u_div/u_add_PartRem_1_6/U86/QN (NAND3X0)
+                                                        0.1345   136.0283 r
+  calu/div_100/u_div/u_add_PartRem_1_6/U162/QN (NAND2X0)
+                                                        0.1016   136.1299 f
+  calu/div_100/u_div/u_add_PartRem_1_6/U163/QN (NAND3X0)
+                                                        0.1459   136.2757 r
+  calu/div_100/u_div/u_add_PartRem_1_6/U167/QN (NAND2X0)
+                                                        0.1024   136.3781 f
+  calu/div_100/u_div/u_add_PartRem_1_6/U169/QN (NAND3X0)
+                                                        0.1439   136.5221 r
+  calu/div_100/u_div/u_add_PartRem_1_6/CO (Complex_ALU_DW01_add_33)
+                                                        0.0000   136.5221 r
+  calu/div_100/U281/QN (NAND2X0)             
+                                                        0.4675   136.9896 f
+  calu/div_100/U280/Q (MUX21X1)              
+                                                        0.8057   137.7953 r
+  calu/div_100/u_div/u_add_PartRem_1_5/A[0] (Complex_ALU_DW01_add_32)
+                                                        0.0000   137.7953 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U79/QN (NAND2X0)
+                                                        0.4546   138.2499 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U93/QN (NAND3X0)
+                                                        0.1457   138.3956 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U53/QN (NAND2X0)
+                                                        0.1140   138.5096 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U62/QN (NAND3X0)
+                                                        0.1620   138.6716 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U52/CO (FADDX1)
+                                                        0.3403   139.0120 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U142/QN (NAND2X0)
+                                                        0.0976   139.1096 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U143/QN (NAND3X0)
+                                                        0.1368   139.2464 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U178/QN (NAND2X0)
+                                                        0.1025   139.3489 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U195/QN (NAND3X0)
+                                                        0.1377   139.4866 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U187/QN (NAND2X0)
+                                                        0.1018   139.5884 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U188/QN (NAND3X0)
+                                                        0.1397   139.7281 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U190/QN (NAND2X0)
+                                                        0.1020   139.8301 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U192/QN (NAND3X0)
+                                                        0.1338   139.9639 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U121/QN (NAND2X0)
+                                                        0.1012   140.0651 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U122/QN (NAND3X0)
+                                                        0.1417   140.2068 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U126/QN (NAND2X0)
+                                                        0.1021   140.3089 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U128/QN (NAND3X0)
+                                                        0.1334   140.4423 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U97/QN (NAND2X0)
+                                                        0.1023   140.5446 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U99/QN (NAND3X0)
+                                                        0.1333   140.6779 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U103/QN (NAND2X0)
+                                                        0.1020   140.7799 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U105/QN (NAND3X0)
+                                                        0.1466   140.9265 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U33/QN (NAND2X0)
+                                                        0.1160   141.0425 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U35/QN (NAND3X0)
+                                                        0.1522   141.1947 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U131/QN (NAND2X0)
+                                                        0.1154   141.3101 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U132/QN (NAND3X0)
+                                                        0.1371   141.4472 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U180/QN (NAND2X0)
+                                                        0.1016   141.5488 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U181/QN (NAND3X0)
+                                                        0.1433   141.6921 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U184/QN (NAND2X0)
+                                                        0.1019   141.7940 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U185/QN (NAND3X0)
+                                                        0.1398   141.9337 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U107/QN (NAND2X0)
+                                                        0.1020   142.0357 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U109/QN (NAND3X0)
+                                                        0.1336   142.1693 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U114/QN (NAND2X0)
+                                                        0.1017   142.2709 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U115/QN (NAND3X0)
+                                                        0.1402   142.4111 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U86/QN (NAND2X0)
+                                                        0.1020   142.5131 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U87/QN (NAND3X0)
+                                                        0.1447   142.6579 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U150/QN (NAND2X0)
+                                                        0.1028   142.7607 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U152/QN (NAND3X0)
+                                                        0.1397   142.9004 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U76/QN (NAND2X0)
+                                                        0.1022   143.0025 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U78/QN (NAND3X0)
+                                                        0.1562   143.1587 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U136/QN (NAND2X0)
+                                                        0.1161   143.2748 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U138/QN (NAND3X0)
+                                                        0.1374   143.4122 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U155/QN (NAND2X0)
+                                                        0.1013   143.5135 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U156/QN (NAND3X0)
+                                                        0.1393   143.6528 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U161/QN (NAND2X0)
+                                                        0.1016   143.7544 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U162/QN (NAND3X0)
+                                                        0.1410   143.8954 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U163/QN (NAND2X0)
+                                                        0.1021   143.9975 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U165/QN (NAND3X0)
+                                                        0.1375   144.1349 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U169/QN (NAND2X0)
+                                                        0.1027   144.2376 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U171/QN (NAND3X0)
+                                                        0.1432   144.3809 r
+  calu/div_100/u_div/u_add_PartRem_1_5/U147/QN (NAND2X0)
+                                                        0.1030   144.4839 f
+  calu/div_100/u_div/u_add_PartRem_1_5/U148/QN (NAND3X0)
+                                                        0.1452   144.6291 r
+  calu/div_100/u_div/u_add_PartRem_1_5/CO (Complex_ALU_DW01_add_32)
+                                                        0.0000   144.6291 r
+  calu/div_100/U27/Q (AND2X1)                 
+                                                        0.5557   145.1849 r
+  calu/div_100/u_div/u_mx_PartRem_0_5_0/Q (MUX21X1)   
+                                                        0.9277   146.1125 r
+  calu/div_100/u_div/u_add_PartRem_1_4/A[0] (Complex_ALU_DW01_add_31)
+                                                        0.0000   146.1125 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U110/QN (NAND2X0)
+                                                        0.4846   146.5971 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U112/QN (NAND3X0)
+                                                        0.1372   146.7343 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U198/QN (NAND2X0)
+                                                        0.1021   146.8364 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U202/QN (NAND3X0)
+                                                        0.1429   146.9793 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U100/QN (NAND2X0)
+                                                        0.1030   147.0824 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U102/QN (NAND3X0)
+                                                        0.1339   147.2163 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U106/QN (NAND2X0)
+                                                        0.1022   147.3185 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U107/QN (NAND3X0)
+                                                        0.1400   147.4584 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U153/QN (NAND2X0)
+                                                        0.1020   147.5604 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U155/QN (NAND3X0)
+                                                        0.1373   147.6977 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U159/QN (NAND2X0)
+                                                        0.1025   147.8002 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U161/QN (NAND3X0)
+                                                        0.1377   147.9379 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U114/QN (NAND2X0)
+                                                        0.1025   148.0404 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U116/QN (NAND3X0)
+                                                        0.1335   148.1740 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U119/QN (NAND2X0)
+                                                        0.1015   148.2755 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U120/QN (NAND3X0)
+                                                        0.1410   148.4165 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U125/QN (NAND2X0)
+                                                        0.1017   148.5183 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U126/QN (NAND3X0)
+                                                        0.1454   148.6637 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U76/QN (NAND2X0)
+                                                        0.1026   148.7663 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U77/QN (NAND3X0)
+                                                        0.1420   148.9082 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U130/QN (NAND2X0)
+                                                        0.1026   149.0109 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U132/QN (NAND3X0)
+                                                        0.1364   149.1473 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U204/QN (NAND2X0)
+                                                        0.1013   149.2486 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U205/QN (NAND3X0)
+                                                        0.1398   149.3884 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U207/QN (NAND2X0)
+                                                        0.1020   149.4903 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U209/QN (NAND3X0)
+                                                        0.1458   149.6361 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U150/QN (NAND2X0)
+                                                        0.1150   149.7511 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U151/QN (NAND3X0)
+                                                        0.1366   149.8878 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U163/QN (NAND2X0)
+                                                        0.1138   150.0016 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U165/QN (NAND3X0)
+                                                        0.1257   150.1273 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U180/QN (NAND2X0)
+                                                        0.1015   150.2288 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U181/QN (NAND3X0)
+                                                        0.1397   150.3685 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U185/QN (NAND2X0)
+                                                        0.1020   150.4705 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U187/QN (NAND3X0)
+                                                        0.1456   150.6160 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U89/QN (NAND2X0)
+                                                        0.1036   150.7196 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U90/QN (NAND3X0)
+                                                        0.1449   150.8645 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U94/QN (NAND2X0)
+                                                        0.1343   150.9989 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U58/QN (NAND3X0)
+                                                        0.1428   151.1417 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U69/QN (NAND2X0)
+                                                        0.0989   151.2406 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U72/QN (NAND3X0)
+                                                        0.1231   151.3637 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U136/QN (NAND2X0)
+                                                        0.1021   151.4657 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U137/QN (NAND3X0)
+                                                        0.1399   151.6057 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U142/QN (NAND2X0)
+                                                        0.1016   151.7073 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U143/QN (NAND3X0)
+                                                        0.1396   151.8469 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U189/QN (NAND2X0)
+                                                        0.1016   151.9485 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U190/QN (NAND3X0)
+                                                        0.1410   152.0895 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U193/QN (NAND2X0)
+                                                        0.1021   152.1916 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U195/QN (NAND3X0)
+                                                        0.1456   152.3371 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U82/QN (NAND2X0)
+                                                        0.1038   152.4409 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U83/QN (NAND3X0)
+                                                        0.1388   152.5797 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U171/QN (NAND2X0)
+                                                        0.1128   152.6925 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U172/QN (NAND3X0)
+                                                        0.1362   152.8288 r
+  calu/div_100/u_div/u_add_PartRem_1_4/U176/QN (NAND2X0)
+                                                        0.1017   152.9305 f
+  calu/div_100/u_div/u_add_PartRem_1_4/U177/QN (NAND3X0)
+                                                        0.1326   153.0630 r
+  calu/div_100/u_div/u_add_PartRem_1_4/CO (Complex_ALU_DW01_add_31)
+                                                        0.0000   153.0630 r
+  calu/div_100/U16/Q (AND2X2)                 
+                                                        0.4916   153.5546 r
+  calu/div_100/u_div/u_mx_PartRem_0_4_0/Q (MUX21X1)  
+                                                        1.0075   154.5621 r
+  calu/div_100/u_div/u_add_PartRem_1_3/A[0] (Complex_ALU_DW01_add_30)
+                                                        0.0000   154.5621 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U116/QN (NAND2X0)
+                                                        0.4851   155.0472 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U118/QN (NAND3X0)
+                                                        0.1523   155.1994 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U28/CO (FADDX1)
+                                                        0.3437   155.5431 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U84/QN (NAND2X0)
+                                                        0.1087   155.6518 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U85/QN (NAND3X0)
+                                                        0.1403   155.7921 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U154/QN (NAND2X0)
+                                                        0.1025   155.8946 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U155/QN (NAND3X0)
+                                                        0.1335   156.0282 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U168/QN (NAND2X0)
+                                                        0.1016   156.1298 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U169/QN (NAND3X0)
+                                                        0.1396   156.2694 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U174/QN (NAND2X0)
+                                                        0.1016   156.3710 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U175/QN (NAND3X0)
+                                                        0.1515   156.5225 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U56/QN (NAND2X0)
+                                                        0.1036   156.6261 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U58/QN (NAND3X0)
+                                                        0.1534   156.7794 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U61/CO (FADDX1)
+                                                        0.3434   157.1228 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U100/QN (NAND2X0)
+                                                        0.1062   157.2290 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U102/QN (NAND3X0)
+                                                        0.1331   157.3620 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U177/QN (NAND2X0)
+                                                        0.1016   157.4637 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U178/QN (NAND3X0)
+                                                        0.1406   157.6042 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U182/QN (NAND2X0)
+                                                        0.1020   157.7063 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U184/QN (NAND3X0)
+                                                        0.1446   157.8508 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U39/QN (NAND2X0)
+                                                        0.1142   157.9651 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U42/QN (NAND3X0)
+                                                        0.1485   158.1136 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U126/QN (NAND2X0)
+                                                        0.1032   158.2168 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U127/QN (NAND3X0)
+                                                        0.1420   158.3588 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U131/QN (NAND2X0)
+                                                        0.1021   158.4610 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U133/QN (NAND3X0)
+                                                        0.1380   158.5990 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U197/QN (NAND2X0)
+                                                        0.1023   158.7012 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U198/QN (NAND3X0)
+                                                        0.1461   158.8473 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U200/QN (NAND2X0)
+                                                        0.1027   158.9500 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U202/QN (NAND3X0)
+                                                        0.1379   159.0879 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U137/QN (NAND2X0)
+                                                        0.1022   159.1900 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U138/QN (NAND3X0)
+                                                        0.1431   159.3331 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U149/QN (NAND2X0)
+                                                        0.1143   159.4475 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U151/QN (NAND3X0)
+                                                        0.1259   159.5734 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U158/QN (NAND2X0)
+                                                        0.1016   159.6750 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U159/QN (NAND3X0)
+                                                        0.1459   159.8209 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U163/QN (NAND2X0)
+                                                        0.1027   159.9235 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U165/QN (NAND3X0)
+                                                        0.1380   160.0615 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U106/QN (NAND2X0)
+                                                        0.1026   160.1641 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U107/QN (NAND3X0)
+                                                        0.1403   160.3044 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U111/QN (NAND2X0)
+                                                        0.1020   160.4064 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U113/QN (NAND3X0)
+                                                        0.1466   160.5530 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U146/QN (NAND2X0)
+                                                        0.1033   160.6563 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U147/QN (NAND3X0)
+                                                        0.1371   160.7934 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U186/QN (NAND2X0)
+                                                        0.1013   160.8947 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U187/QN (NAND3X0)
+                                                        0.1459   161.0406 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U191/QN (NAND2X0)
+                                                        0.1024   161.1430 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U193/QN (NAND3X0)
+                                                        0.1466   161.2896 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U95/QN (NAND2X0)
+                                                        0.1034   161.3930 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U97/QN (NAND3X0)
+                                                        0.1384   161.5314 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U141/QN (NAND2X0)
+                                                        0.1022   161.6335 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U143/QN (NAND3X0)
+                                                        0.1506   161.7842 r
+  calu/div_100/u_div/u_add_PartRem_1_3/U120/QN (NAND2X0)
+                                                        0.1037   161.8879 f
+  calu/div_100/u_div/u_add_PartRem_1_3/U123/QN (NAND3X0)
+                                                        0.1178   162.0057 r
+  calu/div_100/u_div/u_add_PartRem_1_3/CO (Complex_ALU_DW01_add_30)
+                                                        0.0000   162.0057 r
+  calu/div_100/U685/Q (AND3X1)                 
+                                                        0.4045   162.4101 r
+  calu/div_100/U193/Z (DELLN1X2)                 
+                                                        0.8185   163.2286 r
+  calu/div_100/u_div/u_mx_PartRem_0_3_1/Q (MUX21X1)  
+                                                        0.9264   164.1550 r
+  calu/div_100/u_div/u_add_PartRem_1_2/A[1] (Complex_ALU_DW01_add_29)
+                                                        0.0000   164.1550 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U178/QN (NAND2X0)
+                                                        0.4828   164.6378 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U181/QN (NAND3X0)
+                                                        0.1390   164.7768 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U185/QN (NAND2X0)
+                                                        0.1036   164.8804 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U187/QN (NAND3X0)
+                                                        0.1348   165.0152 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U174/QN (NAND2X0)
+                                                        0.1132   165.1285 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U177/QN (NAND3X0)
+                                                        0.1254   165.2539 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U155/QN (NAND2X0)
+                                                        0.1020   165.3559 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U157/QN (NAND3X0)
+                                                        0.1377   165.4935 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U161/QN (NAND2X0)
+                                                        0.1021   165.5957 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U163/QN (NAND3X0)
+                                                        0.1437   165.7394 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U209/QN (NAND2X0)
+                                                        0.1138   165.8532 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U212/QN (NAND3X0)
+                                                        0.1301   165.9833 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U97/QN (NAND2X0)
+                                                        0.1025   166.0858 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U99/QN (NAND3X0)
+                                                        0.1352   166.2211 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U125/QN (NAND2X0)
+                                                        0.1016   166.3227 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U126/QN (NAND3X0)
+                                                        0.1418   166.4645 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U130/QN (NAND2X0)
+                                                        0.1021   166.5666 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U132/QN (NAND3X0)
+                                                        0.1425   166.7092 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U200/QN (NAND2X0)
+                                                        0.1034   166.8126 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U215/QN (NAND3X0)
+                                                        0.1383   166.9509 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U75/QN (NAND2X0)
+                                                        0.1022   167.0530 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U78/QN (NAND3X0)
+                                                        0.1456   167.1987 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U119/QN (NAND2X0)
+                                                        0.1036   167.3023 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U121/QN (NAND3X0)
+                                                        0.1396   167.4419 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U115/QN (NAND2X0)
+                                                        0.1021   167.5441 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U117/QN (NAND3X0)
+                                                        0.1372   167.6813 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U166/QN (NAND2X0)
+                                                        0.1013   167.7826 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U167/QN (NAND3X0)
+                                                        0.1419   167.9245 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U171/QN (NAND2X0)
+                                                        0.1021   168.0267 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U173/QN (NAND3X0)
+                                                        0.1332   168.1599 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U202/QN (NAND2X0)
+                                                        0.1013   168.2612 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U203/QN (NAND3X0)
+                                                        0.1393   168.4005 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U205/QN (NAND2X0)
+                                                        0.1019   168.5024 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U207/QN (NAND3X0)
+                                                        0.1373   168.6397 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U108/QN (NAND2X0)
+                                                        0.1024   168.7422 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U109/QN (NAND3X0)
+                                                        0.1471   168.8892 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U83/QN (NAND2X0)
+                                                        0.1035   168.9928 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U85/QN (NAND3X0)
+                                                        0.1553   169.1481 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U110/QN (NAND2X0)
+                                                        0.1040   169.2521 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U112/QN (NAND3X0)
+                                                        0.1470   169.3991 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U145/QN (NAND2X0)
+                                                        0.1032   169.5023 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U147/QN (NAND3X0)
+                                                        0.1340   169.6363 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U152/QN (NAND2X0)
+                                                        0.1015   169.7379 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U153/QN (NAND3X0)
+                                                        0.1479   169.8858 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U134/QN (NAND2X0)
+                                                        0.1028   169.9886 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U136/QN (NAND3X0)
+                                                        0.1379   170.1265 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U140/QN (NAND2X0)
+                                                        0.1027   170.2292 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U142/QN (NAND3X0)
+                                                        0.1378   170.3671 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U46/QN (NAND2X0)
+                                                        0.1027   170.4697 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U47/QN (NAND3X0)
+                                                        0.1430   170.6127 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U102/QN (NAND2X0)
+                                                        0.1032   170.7159 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U104/QN (NAND3X0)
+                                                        0.1509   170.8668 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U189/QN (NAND2X0)
+                                                        0.1038   170.9706 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U191/QN (NAND3X0)
+                                                        0.1466   171.1172 r
+  calu/div_100/u_div/u_add_PartRem_1_2/U195/QN (NAND2X0)
+                                                        0.1039   171.2211 f
+  calu/div_100/u_div/u_add_PartRem_1_2/U197/QN (NAND3X0)
+                                                        0.1291   171.3502 r
+  calu/div_100/u_div/u_add_PartRem_1_2/CO (Complex_ALU_DW01_add_29)
+                                                        0.0000   171.3502 r
+  calu/div_100/U128/Q (AND2X2)               
+                                                        0.4950   171.8451 r
+  calu/div_100/u_div/u_mx_PartRem_0_2_0/Q (MUX21X1)  	
+                                                        0.9903   172.8354 r
+  calu/div_100/u_div/u_add_PartRem_1_1/A[0] (Complex_ALU_DW01_add_28)
+                                                        0.0000   172.8354 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U59/ZN (INVX0) 
+                                                        0.4640   173.2995 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U36/Q (OR2X1)  
+                                                        0.1556   173.4551 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U40/QN (NAND3X0)
+                                                        0.1336   173.5887 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U54/QN (NAND2X0)
+                                                        0.1140   173.7027 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U56/QN (NAND3X0)
+                                                        0.1541   173.8567 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U86/QN (NAND2X0)
+                                                        0.1050   173.9617 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U88/QN (NAND3X0)
+                                                        0.1531   174.1148 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U194/QN (NAND2X0)
+                                                        0.1033   174.2182 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U206/QN (NAND3X0)
+                                                        0.1435   174.3616 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U209/QN (NAND2X0)
+                                                        0.1029   174.4645 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U211/QN (NAND3X0)
+                                                        0.1380   174.6024 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U138/QN (NAND2X0)
+                                                        0.1018   174.7043 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U139/QN (NAND3X0)
+                                                        0.1397   174.8440 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U144/QN (NAND2X0)
+                                                        0.1016   174.9456 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U145/QN (NAND3X0)
+                                                        0.1396   175.0852 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U101/QN (NAND2X0)
+                                                        0.1016   175.1868 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U102/QN (NAND3X0)
+                                                        0.1458   175.3326 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U106/QN (NAND2X0)
+                                                        0.1027   175.4352 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U108/QN (NAND3X0)
+                                                        0.1459   175.5811 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U92/QN (NAND2X0)
+                                                        0.1039   175.6850 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U93/QN (NAND3X0)
+                                                        0.1474   175.8323 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U162/QN (NAND2X0)
+                                                        0.1028   175.9352 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U163/QN (NAND3X0)
+                                                        0.1405   176.0757 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U167/QN (NAND2X0)
+                                                        0.1020   176.1777 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U169/QN (NAND3X0)
+                                                        0.1335   176.3112 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U213/QN (NAND2X0)
+                                                        0.1020   176.4133 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U214/QN (NAND3X0)
+                                                        0.1420   176.5553 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U218/QN (NAND2X0)
+                                                        0.1021   176.6574 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U220/QN (NAND3X0)
+                                                        0.1471   176.8045 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U76/QN (NAND2X0)
+                                                        0.1150   176.9195 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U77/QN (NAND3X0)
+                                                        0.1411   177.0605 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U81/QN (NAND2X0)
+                                                        0.1025   177.1631 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U82/QN (NAND3X0)
+                                                        0.1429   177.3059 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U125/QN (NAND2X0)
+                                                        0.1032   177.4092 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U126/QN (NAND3X0)
+                                                        0.1460   177.5551 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U196/QN (NAND2X0)
+                                                        0.1035   177.6587 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U197/QN (NAND3X0)
+                                                        0.1392   177.7979 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U202/QN (NAND2X0)
+                                                        0.1022   177.9001 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U203/QN (NAND3X0)
+                                                        0.1540   178.0540 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U148/QN (NAND2X0)
+                                                        0.1037   178.1578 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U150/QN (NAND3X0)
+                                                        0.1466   178.3044 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U154/QN (NAND2X0)
+                                                        0.1040   178.4084 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U156/QN (NAND3X0)
+                                                        0.1388   178.5471 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U119/QN (NAND2X0)
+                                                        0.1018   178.6490 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U122/QN (NAND3X0)
+                                                        0.1445   178.7935 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U133/QN (NAND2X0)
+                                                        0.1026   178.8960 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U135/QN (NAND3X0)
+                                                        0.1497   179.0458 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U129/QN (NAND2X0)
+                                                        0.1033   179.1491 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U130/QN (NAND3X0)
+                                                        0.1513   179.3004 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U172/QN (NAND2X0)
+                                                        0.1037   179.4041 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U174/QN (NAND3X0)
+                                                        0.1466   179.5507 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U178/QN (NAND2X0)
+                                                        0.1037   179.6545 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U180/QN (NAND3X0)
+                                                        0.1464   179.8008 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U110/QN (NAND2X0)
+                                                        0.1032   179.9041 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U112/QN (NAND3X0)
+                                                        0.1509   180.0550 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U182/QN (NAND2X0)
+                                                        0.1034   180.1584 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U184/QN (NAND3X0)
+                                                        0.1463   180.3047 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U189/QN (NAND2X0)
+                                                        0.1033   180.4080 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U190/QN (NAND3X0)
+                                                        0.1553   180.5632 r
+  calu/div_100/u_div/u_add_PartRem_1_1/U116/QN (NAND2X0)
+                                                        0.1034   180.6667 f
+  calu/div_100/u_div/u_add_PartRem_1_1/U117/QN (NAND3X0)
+                                                        0.1585   180.8251 r
+  calu/div_100/u_div/u_add_PartRem_1_1/CO (Complex_ALU_DW01_add_28)
+                                                        0.0000   180.8251 r
+  calu/div_100/U71/Q (AND2X1)                  
+                                                        0.5880   181.4131 r
+  calu/div_100/U207/QN (NAND2X0)             
+                                                        0.4143   181.8274 f
+  calu/div_100/U287/QN (NAND2X0)               
+                                                        0.3740   182.2013 r
+  calu/div_100/u_div/u_add_PartRem_1_0/A[0] (Complex_ALU_DW01_add_27)
+                                                        0.0000   182.2013 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U49/QN (NAND2X0)
+                                                        0.4193   182.6207 f
+  calu/div_100/u_div/u_add_PartRem_1_0/U63/QN (NAND3X0)
+                                                        0.1395   182.7602 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U104/Q (AO222X1)
+                                                        0.2308   182.9910 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U103/Q (AO222X1)
+                                                        0.2333   183.2242 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U102/Q (AO222X1)
+                                                        0.2300   183.4543 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U54/QN (NAND2X0)
+                                                        0.1015   183.5557 f
+  calu/div_100/u_div/u_add_PartRem_1_0/U56/QN (NAND3X0)
+                                                        0.1286   183.6844 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U51/QN (NAND2X0)
+                                                        0.1083   183.7927 f
+  calu/div_100/u_div/u_add_PartRem_1_0/U53/QN (NAND3X0)
+                                                        0.1330   183.9257 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U101/Q (AO222X1)
+                                                        0.2383   184.1640 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U84/QN (NAND2X0)
+                                                        0.1015   184.2655 f
+  calu/div_100/u_div/u_add_PartRem_1_0/U86/QN (NAND3X0)
+                                                        0.1274   184.3929 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U76/QN (NAND2X0)
+                                                        0.1080   184.5009 f
+  calu/div_100/u_div/u_add_PartRem_1_0/U78/QN (NAND3X0)
+                                                        0.1296   184.6305 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U80/QN (NAND2X0)
+                                                        0.1081   184.7386 f
+  calu/div_100/u_div/u_add_PartRem_1_0/U82/QN (NAND3X0)
+                                                        0.1329   184.8715 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U100/Q (AO222X1)
+                                                        0.2430   185.1145 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U99/Q (AO222X1)
+                                                        0.2324   185.3468 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U98/Q (AO222X1)
+                                                        0.2323   185.5791 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U97/Q (AO222X1)
+                                                        0.2300   185.8092 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U46/QN (NAND2X0)
+                                                        0.1015   185.9107 f
+  calu/div_100/u_div/u_add_PartRem_1_0/U48/QN (NAND3X0)
+                                                        0.1350   186.0457 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U96/Q (AO222X1)
+                                                        0.2438   186.2895 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U95/Q (AO222X1)
+                                                        0.2301   186.5196 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U36/QN (NAND2X0)
+                                                        0.1015   186.6210 f
+  calu/div_100/u_div/u_add_PartRem_1_0/U38/QN (NAND3X0)
+                                                        0.1276   186.7486 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U39/QN (NAND2X0)
+                                                        0.1074   186.8560 f
+  calu/div_100/u_div/u_add_PartRem_1_0/U42/QN (NAND3X0)
+                                                        0.1293   186.9853 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U64/QN (NAND2X0)
+                                                        0.1071   187.0924 f
+  calu/div_100/u_div/u_add_PartRem_1_0/U71/QN (NAND3X0)
+                                                        0.1292   187.2216 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U73/QN (NAND2X0)
+                                                        0.1092   187.3308 f
+  calu/div_100/u_div/u_add_PartRem_1_0/U75/QN (NAND3X0)
+                                                        0.1335   187.4643 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U94/Q (AO222X1)
+                                                        0.2400   187.7043 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U93/Q (AO222X1)
+                                                        0.2323   187.9366 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U92/Q (AO222X1)
+                                                        0.2300   188.1666 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U58/QN (NAND2X0)
+                                                        0.1015   188.2681 f
+  calu/div_100/u_div/u_add_PartRem_1_0/U60/QN (NAND3X0)
+                                                        0.1332   188.4014 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U91/Q (AO222X1)
+                                                        0.2431   188.6445 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U90/Q (AO222X1)
+                                                        0.2324   188.8769 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U89/Q (AO222X1)
+                                                        0.2323   189.1092 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U88/Q (AO222X1)
+                                                        0.2323   189.3415 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U87/Q (AO222X1)
+                                                        0.2300   189.5715 r
+  calu/div_100/u_div/u_add_PartRem_1_0/U66/QN (NAND2X0)
+                                                        0.1015   189.6730 f
+  calu/div_100/u_div/u_add_PartRem_1_0/U68/QN (NAND3X0)
+                                                        0.1180   189.7910 r
+  calu/div_100/u_div/u_add_PartRem_1_0/CO (Complex_ALU_DW01_add_27)
+                                                        0.0000   189.7910 r
+  calu/U101/QN (AOI22X1)                 
+                                                        0.5096   190.3006 f
+  calu/U198/Q (AND3X1)                    
+                                                        0.4448   190.7454 f
+  calu/U377/QN (NAND2X0)                  
+                                                        0.4052   191.1506 r

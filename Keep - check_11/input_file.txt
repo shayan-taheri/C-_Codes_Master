@@ -1,0 +1,15 @@
+  AND2X1 U01 ( .A(a1), .A(a2), .Z(o1) )   .;
+  OR2X1 U02 ( .A(a3), .A(o1), .Z(o2) )   .;
+  XOR2X1 U03 ( .A(a4), .A(o2), .Z(o3) )   .;
+  INVX0 U04 ( .A(o3), .Z(o4) )   .;
+  INVX0 U05 ( .A(a5), .Z(o5) )   .;
+  AND2X1 U06 ( .A(o4), .A(o5), .Z(o6) )   .;
+  AND2X1 U07 ( .A(a6), .A(a7), .Z(o9) )   .;
+  OR2X1 U08 ( .A(o9), .A(a8), .Z(o10) )   .;
+  XOR2X1 U09 ( .A(a9), .A(a10), .Z(o12) )   .;
+  AND2X1 U10 ( .A(o10), .A(o12), .Z(o11) )   .;
+  OR2X1 U11 ( .A(a11), .A(a12), .Z(o13) )   .;
+  XOR2X1 U12 ( .A(a13), .A(a14), .Z(o14) )   .;
+  OR2X1 U13 ( .A(o6), .A(o11), .Z(o7) )   .;
+  AND2X1 U14 ( .A(o7), .A(o13), .Z(o8) )   .;
+  OR2X1 U15 ( .A(o8), .A(a14), .Z(OUT) )   .;

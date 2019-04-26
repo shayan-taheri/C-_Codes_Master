@@ -1,0 +1,34 @@
+headAL_reg[0]/CLK (DFFX1)                             0.0000 #   0.0000 r
+  headAL_reg[0]/Q (DFFX1)                               0.4037     0.4037 f
+  U353/Z (NBUFFX2)                                      4.5547     4.9585 f
+  add_409/A[0] (ActiveList_DW01_inc_1)                  0.0000     4.9585 f
+  add_409/U1/ZN (INVX0)                                 1.7390     6.6975 r
+  add_409/SUM[0] (ActiveList_DW01_inc_1)                0.0000     6.6975 r
+  U332/Z (NBUFFX2)                                      1.5307     8.2282 r
+  activeList/addr1_i[0] (SRAM_4R4W_AMT_SRAM_DEPTH128_SRAM_INDEX7_SRAM_WIDTH55)
+                                                        0.0000     8.2282 r
+  activeList/U34960/Z (NBUFFX2)                         3.7656    11.9938 r
+  activeList/U23116/Z (NBUFFX2)                         2.8804    14.8743 r
+  activeList/U495/Z (NBUFFX2)                           4.1366    19.0109 r
+  activeList/U34919/Q (MUX41X1)                         3.6369    22.6478 r
+  activeList/U34922/Q (MUX41X1)                         0.7378    23.3856 r
+  activeList/U34933/Q (MUX41X1)                         0.7389    24.1245 r
+  activeList/U34955/Q (MUX21X1)                         0.7599    24.8844 r
+  activeList/data1_o[54] (SRAM_4R4W_AMT_SRAM_DEPTH128_SRAM_INDEX7_SRAM_WIDTH55)
+                                                        0.0000    24.8844 r
+  U379/QN (NAND2X1)                                     1.0577    25.9421 f
+  U324/QN (NAND4X0)                                     0.7594    26.7015 r
+  U372/QN (NAND2X1)                                     1.0626    27.7641 f
+  U323/QN (NAND4X0)                                     0.7649    28.5290 r
+  U357/ZN (INVX0)                                       0.9470    29.4760 f
+  U337/Z (NBUFFX2)                                      5.4587    34.9347 f
+  U380/QN (OAI21X1)                                     2.3783    37.3130 r
+  U328/CO (FADDX1)                                      3.4947    40.8077 r
+  sub_457/U2_2/CO (FADDX1)                              2.4382    43.2459 r
+  U474/Q (OR2X1)                                        1.0663    44.3122 r
+  U472/Q (OR2X1)                                        1.0626    45.3748 r
+  U470/Q (OR2X1)                                        1.0626    46.4374 r
+  U468/Q (OR2X1)                                        1.0520    47.4894 r
+  U467/Q (XNOR2X1)                                      0.9316    48.4210 r
+  U292/Q (AND2X1)                                       0.5790    49.0000 r
+  activeListCount_reg[7]/D (DFFX1)                      0.4798    49.4798 r

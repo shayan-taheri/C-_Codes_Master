@@ -1,0 +1,3 @@
+  AND2X1 U1550 ( .A(net1), .A(net2), .Z(net3) )   .;
+  OR2X1 U1551 ( .A(net3), .A(net4), .Z(out) )   .;
+
